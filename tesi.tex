@@ -1,0 +1,125 @@
+\documentclass[a4paper,11pt,twoside]{book}
+\usepackage[DIV=14,BCOR=2mm,headinclude=true,footinclude=false]{typearea}
+\usepackage[activate={true,nocompatibility},final,tracking=true,kerning=true,spacing=true,factor=1100,stretch=10,shrink=10]{microtype}
+\usepackage[english]{babel}
+\usepackage{enumerate}
+\usepackage{longtable}
+\usepackage{makecell}
+\usepackage{comment}
+\usepackage{tikz-feynman}
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage[format=plain,labelfont=it, textfont=it]{caption}
+\usepackage{subcaption}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\usepackage{mathrsfs}
+
+\counterwithin{figure}{chapter} 
+\counterwithin{equation}{section}
+
+
+
+
+
+%\usepackage[backend=bibtex,
+%style=numeric-comp, sorting=none, block=ragged, giveninits=true, ]{biblatex}
+
+%\addbibresource{bibliography/bib/mybiblio_2.bib}
+
+\usepackage{hyperref}
+\usepackage{cleveref}
+\hypersetup{
+colorlinks=true,
+linkcolor=blue,
+filecolor=magenta,
+citecolor=red,
+urlcolor=blue,
+pdftitle={nico thesis},
+pdfpagemode=FullScreen,
+}
+
+
+
+\setlength{\oddsidemargin}{8mm}   
+\setlength{\textwidth}{145mm}     
+\linespread{1.12}                
+
+
+\renewcommand\labelitemi{\tiny$\bullet$}
+\newcommand{\isotope}[2]{\textsuperscript{#1}#2}
+
+
+
+
+\begin{document}
+\pagenumbering{gobble}
+\input{title.tex}
+
+
+\cleardoublepage\thispagestyle{empty} 
+\vspace*{1cm} 
+\textit{
+\flushright
+alla mia famiglia
+\vfill
+}
+
+
+
+\chapter*{\centering Abstract}
+\begin{center}
+
+
+The study of the top quark is essential for the ATLAS (\textbf{A} \textbf{T}oroidal \textbf{L}HC \textbf{A}pparatu\textbf{S})  experiment, because it could help shedding a light over the electroweak symmetry breaking mechanism. \\
+The top quark was discovered at Tevatron in 1995. \\
+It is the heaviest particle of the Standard Model (SM) with a coupling to the Higgs boson close to one.
+The overwhelming amount of data collected by the ATLAS Experiment at the LHC at CERN during Run-II has allowed the recording and measuring of rare processes, foreseen by the SM, that have never been observed before.
+Recently, the ATLAS Experiment has registered a sporadic process of primary importance, which involves the top quark: the production of a single top quark in association with a Z boson (tZq event).
+The cross section of this process, predicted by the SM to be 102 fb, has been measured with an uncertainty of 15\%.
+Since then the aim has been to find new ways to measure the process, decreasing the uncertainty.
+The purpose of this thesis is to investigate Machine Learning techniques which would improve the discrimination of tZq events from background sources in proton-proton collisions at $\sqrt{s}$ = 13 TeV in the ATLAS experiment. \\
+In the first and second chapter I will provide an overview on the Standard Model and the top quark physics.
+In the third chapter I will give a brief description of LHC and the ATLAS experiment.
+In the fourth chapter I will give a short introduction on Machine Learning.
+In the fifth and last chapter I will explain the work I have done in the past few months.
+
+\end{center}
+
+
+\newpage\null\thispagestyle{empty}\newpage
+\tableofcontents
+\newpage\null\thispagestyle{empty}\newpage
+
+\pagenumbering{arabic}
+\mainmatter
+
+%primo capitolo
+\chapter{The Standard Model}
+
+
+
+%secondo capitolo
+\chapter{Top quark}
+
+
+
+%terzo capitolo
+\chapter{The Large Hadron Collider and the ATLAS Experiment}
+
+
+
+%quarto capitolo
+\chapter{Machine Learning}
+
+
+%quinto capitolo
+\chapter{Separation of tZq from background with DNNs} 
+
+
+
+\backmatter
+\addcontentsline{toc}{chapter}{Bibliography}
+%\printbibliography
+\end{document}
+
