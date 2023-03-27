@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.11.20)  24 MAR 2023 16:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.3.27)  27 MAR 2023 21:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -124,7 +124,7 @@ File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
 Package: babel 2022/01/26 3.70 The Babel package
 \babel@savecnt=\count198
 \U@D=\dimen140
-\l@unhyphenated=\language3
+\l@unhyphenated=\language5
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
@@ -132,16 +132,12 @@ Package: babel 2022/01/26 3.70 The Babel package
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
-Package babel Info: Hyphen rules for 'british' set to \l@english
-(babel)             (\language0). Reported on input line 82.
-Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
-(babel)             (\language0). Reported on input line 83.
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@english
-(babel)             (\language0). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@english
-(babel)             (\language0). Reported on input line 108.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language4). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language4). Reported on input line 108.
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/tools/enumerate.sty
 Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
@@ -691,12 +687,96 @@ LaTeX Info: Redefining \] on input line 2939.
 Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
 \symrsfs=\mathgroup4
 )
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
 
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks43
+\t@pgfplots@tokb=\toks44
+\t@pgfplots@tokc=\toks45
+\pgfplots@tmpa=\dimen293
+\c@pgfplots@coordindex=\count317
+\c@pgfplots@scanlineindex=\count318
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code
+.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldp
+gfsupp_loader.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructure.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotslists
+tructureext.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray
+.code.tex
+\c@pgfplotsarray@tmp=\count319
 )
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatri
+x.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshare
+d.code.tex
+\c@pgfplotstable@counta=\count320
+\t@pgfplotstable@a=\toks46
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque
+.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.te
+x
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.co
+de.tex))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code
+.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.sur
+fshading.code.tex
+\c@pgfplotslibrarysurf@no=\count321
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surf
+shading.pgfsys-pdftex.def)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.
+tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.t
+ex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.t
+ex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.cod
+e.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.
+tex)))
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.cod
+e.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex
+) (/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(/usr/share/texlive/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.co
+ntourlua.code.tex)
+\pgfplots@numplots=\count322
+\pgfplots@xmin@reg=\dimen294
+\pgfplots@xmax@reg=\dimen295
+\pgfplots@ymin@reg=\dimen296
+\pgfplots@ymax@reg=\dimen297
+\pgfplots@zmin@reg=\dimen298
+\pgfplots@zmax@reg=\dimen299
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.co
+de.tex
+File: pgflibraryplotmarks.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))) (./biblatex.sty
+Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
+
 (/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -704,13 +784,287 @@ Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 (/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
 (/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count323
+
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count324
+\c@listtotal=\count325
+\c@listcount=\count326
+\c@liststart=\count327
+\c@liststop=\count328
+\c@citecount=\count329
+\c@citetotal=\count330
+\c@multicitecount=\count331
+\c@multicitetotal=\count332
+\c@instcount=\count333
+\c@maxnames=\count334
+\c@minnames=\count335
+\c@maxitems=\count336
+\c@minitems=\count337
+\c@citecounter=\count338
+\c@maxcitecounter=\count339
+\c@savedcitecounter=\count340
+\c@uniquelist=\count341
+\c@uniquename=\count342
+\c@refsection=\count343
+\c@refsegment=\count344
+\c@maxextratitle=\count345
+\c@maxextratitleyear=\count346
+\c@maxextraname=\count347
+\c@maxextradate=\count348
+\c@maxextraalpha=\count349
+\c@abbrvpenalty=\count350
+\c@highnamepenalty=\count351
+\c@lownamepenalty=\count352
+\c@maxparens=\count353
+\c@parenlevel=\count354
+\blx@tempcnta=\count355
+\blx@tempcntb=\count356
+\blx@tempcntc=\count357
+\c@blx@maxsection=\count358
+\blx@maxsegment@0=\count359
+\blx@notetype=\count360
+\blx@parenlevel@text=\count361
+\blx@parenlevel@foot=\count362
+\blx@sectionciteorder@0=\count363
+\blx@sectionciteorderinternal@0=\count364
+\blx@entrysetcounter=\count365
+\blx@biblioinstance=\count366
+\labelnumberwidth=\skip64
+\labelalphawidth=\skip65
+\biblabelsep=\skip66
+\bibitemsep=\skip67
+\bibnamesep=\skip68
+\bibinitsep=\skip69
+\bibparsep=\skip70
+\bibhang=\skip71
+\blx@bcfin=\read4
+\blx@bcfout=\write5
+\blx@langwohyphens=\language6
+\c@mincomprange=\count367
+\c@maxcomprange=\count368
+\c@mincompwidth=\count369
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'numeric-comp.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count370
+\c@savedafterword=\count371
+\c@annotator=\count372
+\c@savedannotator=\count373
+\c@author=\count374
+\c@savedauthor=\count375
+\c@bookauthor=\count376
+\c@savedbookauthor=\count377
+\c@commentator=\count378
+\c@savedcommentator=\count379
+\c@editor=\count380
+\c@savededitor=\count381
+\c@editora=\count382
+\c@savededitora=\count383
+\c@editorb=\count384
+\c@savededitorb=\count385
+\c@editorc=\count386
+\c@savededitorc=\count387
+\c@foreword=\count388
+\c@savedforeword=\count389
+\c@holder=\count390
+\c@savedholder=\count391
+\c@introduction=\count392
+\c@savedintroduction=\count393
+\c@namea=\count394
+\c@savednamea=\count395
+\c@nameb=\count396
+\c@savednameb=\count397
+\c@namec=\count398
+\c@savednamec=\count399
+\c@translator=\count400
+\c@savedtranslator=\count401
+\c@shortauthor=\count402
+\c@savedshortauthor=\count403
+\c@shorteditor=\count404
+\c@savedshorteditor=\count405
+\c@labelname=\count406
+\c@savedlabelname=\count407
+\c@institution=\count408
+\c@savedinstitution=\count409
+\c@lista=\count410
+\c@savedlista=\count411
+\c@listb=\count412
+\c@savedlistb=\count413
+\c@listc=\count414
+\c@savedlistc=\count415
+\c@listd=\count416
+\c@savedlistd=\count417
+\c@liste=\count418
+\c@savedliste=\count419
+\c@listf=\count420
+\c@savedlistf=\count421
+\c@location=\count422
+\c@savedlocation=\count423
+\c@organization=\count424
+\c@savedorganization=\count425
+\c@origlocation=\count426
+\c@savedoriglocation=\count427
+\c@origpublisher=\count428
+\c@savedorigpublisher=\count429
+\c@publisher=\count430
+\c@savedpublisher=\count431
+\c@language=\count432
+\c@savedlanguage=\count433
+\c@origlanguage=\count434
+\c@savedoriglanguage=\count435
+\c@pageref=\count436
+\c@savedpageref=\count437
+\shorthandwidth=\skip72
+\shortjournalwidth=\skip73
+\shortserieswidth=\skip74
+\shorttitlewidth=\skip75
+\shortauthorwidth=\skip76
+\shorteditorwidth=\skip77
+\locallabelnumberwidth=\skip78
+\locallabelalphawidth=\skip79
+\localshorthandwidth=\skip80
+\localshortjournalwidth=\skip81
+\localshortserieswidth=\skip82
+\localshorttitlewidth=\skip83
+\localshortauthorwidth=\skip84
+\localshorteditorwidth=\skip85
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-bibtex.def
+File: blx-bibtex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+ (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
+\c@textcitecount=\count438
+\c@textcitetotal=\count439
+\c@textcitemaxnames=\count440
+\c@biburlbigbreakpenalty=\count441
+\c@biburlbreakpenalty=\count442
+\c@biburlnumpenalty=\count443
+\c@biburlucpenalty=\count444
+\c@biburllcpenalty=\count445
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count446
+)
+Package biblatex Info: Trying to load bibliography style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric-comp.bbx
+File: numeric-comp.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count447
+\c@bbx:relatedtotal=\count448
+)))
+Package biblatex Info: Trying to load citation style 'numeric-comp'...
+Package biblatex Info: ... file 'numeric-comp.cbx' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric-comp.cbx
+File: numeric-comp.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
+\c@cbx@tempcnta=\count449
+\c@cbx@tempcntb=\count450
+\c@cbx@tempcntc=\count451
+\c@cbx@tempcntd=\count452
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
+File: biblatex.cfg 
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Document encoding is UTF8 ....
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count453
+\l__pdf_internal_box=\box74
+))
+Package biblatex Info: ... and expl3
+(biblatex)             2022-01-21 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2022-01-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
+
 (/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
@@ -726,12 +1080,9 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
-)
-\@linkdim=\dimen293
-\Hy@linkcounter=\count317
-\Hy@pagecounter=\count318
+\@linkdim=\dimen300
+\Hy@linkcounter=\count454
+\Hy@pagecounter=\count455
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
@@ -748,7 +1099,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count319
+\Hy@SavedSpaceFactor=\count456
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
@@ -762,14 +1113,9 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count320
-
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip17
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
+\c@Hy@tempcnt=\count457
 LaTeX Info: Redefining \url on input line 4804.
-\XeTeXLinkMargin=\dimen294
+\XeTeXLinkMargin=\dimen301
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -778,9 +1124,9 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count321
-\Field@Width=\dimen295
-\Fld@charsize=\dimen296
+\Fld@menulength=\count458
+\Field@Width=\dimen302
+\Fld@charsize=\dimen303
 Package hyperref Info: Hyper figures OFF on input line 6076.
 Package hyperref Info: Link nesting OFF on input line 6081.
 Package hyperref Info: Hyper index ON on input line 6084.
@@ -795,9 +1141,9 @@ LaTeX Info: Redefining \pageref on input line 6150.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count322
-\c@Item=\count323
-\c@Hfootnote=\count324
+\Hy@abspage=\count459
+\c@Item=\count460
+\c@Hfootnote=\count461
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
@@ -809,8 +1155,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
 kage
 with kernel methods
 )
-\Fld@listcount=\count325
-\c@bookmark@seq@number=\count326
+\Fld@listcount=\count462
+\c@bookmark@seq@number=\count463
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
@@ -821,7 +1167,7 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
-\Hy@SectionHShift=\skip64
+\Hy@SectionHShift=\skip86
 )
 (/usr/share/texlive/texmf-dist/tex/latex/cleveref/cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
@@ -839,11 +1185,12 @@ LaTeX Info: Redefining \labelcpageref on input line 2370.
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 40.
 
-(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count327
-\l__pdf_internal_box=\box74
-)
+
+Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
+(biblatex)                Loading 'csquotes' recommended.
+
+\@quotelevel=\count464
+\@quotereset=\count465
 (./tesi.aux)
 \openout1 = `tesi.aux'.
 
@@ -896,17 +1243,17 @@ Package microtype Warning: \nonfrenchspacing is active. Adjustment of
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count328
-\scratchdimen=\dimen297
+\scratchcounter=\count466
+\scratchdimen=\dimen304
 \scratchbox=\box75
-\nofMPsegments=\count329
-\nofMParguments=\count330
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count331
-\MPscratchDim=\dimen298
-\MPnumerator=\count332
-\makeMPintoPDFobject=\count333
-\everyMPtoPDFconversion=\toks44
+\nofMPsegments=\count467
+\nofMParguments=\count468
+\everyMPshowfont=\toks47
+\MPscratchCnt=\count469
+\MPscratchDim=\dimen305
+\MPnumerator=\count470
+\makeMPintoPDFobject=\count471
+\everyMPtoPDFconversion=\toks48
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -929,6 +1276,30 @@ mpat=1.1.0]{tikz-feynman} so that you can be warned if TikZ-Feynman changes. on
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
+your preamble.
+ on input line 55.
+
+Package biblatex Info: Trying to load language 'english'...
+Package biblatex Info: ... file 'english.lbx' found.
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+\openout5 = `tesi-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'tesi.bbl' found.
+ (./tesi.bbl)
+Package biblatex Info: Reference section=0 on input line 55.
+Package biblatex Info: Reference segment=0 on input line 55.
 Package hyperref Info: Link coloring ON on input line 55.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -939,28 +1310,28 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count334
+\c@section@level=\count472
 )
 LaTeX Info: Redefining \ref on input line 55.
 LaTeX Info: Redefining \pageref on input line 55.
 LaTeX Info: Redefining \nameref on input line 55.
 
 (./tesi.out) (./tesi.out)
-\@outlinefile=\write5
-\openout5 = `tesi.out'.
+\@outlinefile=\write6
+\openout6 = `tesi.out'.
 
  (./title.tex
-<UniversitasMediolanensis.pdf, id=27, 526.96875pt x 159.59625pt>
-File: UniversitasMediolanensis.pdf Graphic file (type pdf)
-<use UniversitasMediolanensis.pdf>
-Package pdftex.def Info: UniversitasMediolanensis.pdf  used on input line 8.
-(pdftex.def)             Requested size: 360.0pt x 109.03296pt.
+<logo_2.jpg, id=43, 1660.2025pt x 499.8675pt>
+File: logo_2.jpg Graphic file (type jpg)
+<use logo_2.jpg>
+Package pdftex.def Info: logo_2.jpg  used on input line 8.
+(pdftex.def)             Requested size: 360.0pt x 108.39232pt.
  [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./UniversitasMediolanensis
-.pdf>])pdfTeX warning (ext4): destination with the same identifier (name{page.}
-) has been already used, duplicate ignored
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo_2.jpg>])pdfTeX warn
+ing (ext4): destination with the same identifier (name{page.}) has been already
+ used, duplicate ignored
 <to be read again> 
                    \relax 
 l.60 \cleardoublepage
@@ -979,91 +1350,218 @@ l.70 \chapter
              *{\centering Abstract} [4
 
 ]
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 81
-.
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
-(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
-File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-)pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.90 \newpage
-             \null\thispagestyle{empty}\newpage [5]pdfTeX warning (ext4): desti
-nation with the same identifier (name{page.}) has been already used, duplicate 
-ignored
-<to be read again> 
-                   \relax 
-l.90 \newpage\null\thispagestyle{empty}\newpage
-                                                [6] (./tesi.toc)
-\tf@toc=\write6
-\openout6 = `tesi.toc'.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+
+ []
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.92 \newpage
+l.87 \newpage
+             \null\thispagestyle{empty}\newpage [5]pdfTeX warning (ext4): desti
+nation with the same identifier (name{page.}) has been already used, duplicate 
+ignored
+<to be read again> 
+                   \relax 
+l.87 \newpage\null\thispagestyle{empty}\newpage
+                                                [6] (./tesi.toc
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 3.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+))
+\tf@toc=\write7
+\openout7 = `tesi.toc'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
+een already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.89 \newpage
              \null\thispagestyle{empty}\newpage [7
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.92 \newpage\null\thispagestyle{empty}\newpage
+l.89 \newpage\null\thispagestyle{empty}\newpage
                                                 [8]
 Chapter 1.
+<images/1_perseus_molecular_cloud.jpg, id=88, 16009.8125pt x 6524.375pt>
+File: images/1_perseus_molecular_cloud.jpg Graphic file (type jpg)
+<use images/1_perseus_molecular_cloud.jpg>
+Package pdftex.def Info: images/1_perseus_molecular_cloud.jpg  used on input li
+ne 99.
+(pdftex.def)             Requested size: 412.56496pt x 168.04684pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
 [1
 
 
-] [2
+ <./images/1_perseus_molecular_cloud.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 118--120
 
-]
-Chapter 2.
-[3] [4
-
-]
-Chapter 3.
-[5]
-Overfull \hbox (11.82643pt too wide) has occurred while \output is active
-\OT1/cmr/m/n/10.95 6 \OT1/cmr/m/sl/10.95 CHAPTER 3.  THE LARGE HADRON COLLIDER 
-AND THE ATLAS EXPERIMENT
  []
 
-[6
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
+
+ []
+
+<images/trumpler_cluster_diameter.png, id=98, 994.71625pt x 683.55376pt>
+File: images/trumpler_cluster_diameter.png Graphic file (type png)
+<use images/trumpler_cluster_diameter.png>
+Package pdftex.def Info: images/trumpler_cluster_diameter.png  used on input li
+ne 129.
+(pdftex.def)             Requested size: 288.7942pt x 198.45497pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
+
+ []
+
+[2 <./images/trumpler_cluster_diameter.png>]
+<images/interstellar_medium_absorbs.jpg, id=113, 715.67375pt x 238.8925pt>
+File: images/interstellar_medium_absorbs.jpg Graphic file (type jpg)
+<use images/interstellar_medium_absorbs.jpg>
+Package pdftex.def Info: images/interstellar_medium_absorbs.jpg  used on input 
+line 146.
+(pdftex.def)             Requested size: 288.7942pt x 96.40099pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
+
+ []
+
+[3 <./images/interstellar_medium_absorbs.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 196--198
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+<images/extinction_by_distribuction_of_particles.jpg, id=131, 1667.22874pt x 46
+6.74374pt>
+File: images/extinction_by_distribuction_of_particles.jpg Graphic file (type jp
+g)
+<use images/extinction_by_distribuction_of_particles.jpg>
+Package pdftex.def Info: images/extinction_by_distribuction_of_particles.jpg  u
+sed on input line 231.
+(pdftex.def)             Requested size: 412.56496pt x 115.49628pt.
+[4] [5 <./images/extinction_by_distribuction_of_particles.jpg>]
+<images/absorb_coefficient.jpg, id=161, 812.03375pt x 524.96124pt>
+File: images/absorb_coefficient.jpg Graphic file (type jpg)
+<use images/absorb_coefficient.jpg>
+Package pdftex.def Info: images/absorb_coefficient.jpg  used on input line 304.
+
+(pdftex.def)             Requested size: 412.56496pt x 266.70938pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--331
+
+ []
+
+[6 <./images/absorb_coefficient.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 351--353
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 370--371
+
+ []
+
+<images/barnard_68.jpg, id=174, 1284.8pt x 855.195pt>
+File: images/barnard_68.jpg Graphic file (type jpg)
+<use images/barnard_68.jpg>
+Package pdftex.def Info: images/barnard_68.jpg  used on input line 376.
+(pdftex.def)             Requested size: 412.56496pt x 274.60754pt.
+[7]
+<images/reddening_curve.jpg, id=187, 1386.17876pt x 564.1075pt>
+File: images/reddening_curve.jpg Graphic file (type jpg)
+<use images/reddening_curve.jpg>
+Package pdftex.def Info: images/reddening_curve.jpg  used on input line 386.
+(pdftex.def)             Requested size: 412.56496pt x 167.89076pt.
+ [8 <./images/barnard_68.jpg> <./images/reddening_curve.jpg>]
+Chapter 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 411--412
+
+ []
+
+[9
+
+] [10]
+Chapter 3.
+[11
+
+] [12
 
 ]
 Chapter 4.
-[7] [8
+[13] [14
 
 ]
-Chapter 5.
-[9] [10
 
-] (./tesi.aux)
+LaTeX Warning: Empty bibliography on input line 465.
+
+(./tesi.aux)
 Package rerunfilecheck Info: File `tesi.out' has not changed.
-(rerunfilecheck)             Checksum: 41F293F2586550BF7F7841727E4277E7;946.
+(rerunfilecheck)             Checksum: 827928C06DCE8DF882D9A10091C63681;1599.
+Package logreq Info: Writing requests to 'tesi.run.xml'.
+\openout1 = `tesi.run.xml'.
+
  ) 
 Here is how much of TeX's memory you used:
- 29390 strings out of 480247
- 588276 string characters out of 5896150
- 956151 words of memory out of 5000000
- 46786 multiletter control sequences out of 15000+600000
- 477122 words of font info for 74 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 124i,6n,120p,1001b,369s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46486 strings out of 480204
+ 1067312 string characters out of 5895010
+ 1699792 words of memory out of 5000000
+ 63610 multiletter control sequences out of 15000+600000
+ 479687 words of font info for 100 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 124i,17n,120p,1881b,2209s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmti10.pfb>
-Output written on tesi.pdf (18 pages, 167793 bytes).
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on tesi.pdf (22 pages, 8132796 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
- 20 named destinations out of 1000 (max. 500000)
- 22586 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 300 PDF objects out of 1000 (max. 8388607)
+ 235 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 500000)
+ 30845 words of extra memory for PDF output out of 35830 (max. 10000000)
 

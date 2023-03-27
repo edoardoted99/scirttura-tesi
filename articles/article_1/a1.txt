@@ -1,0 +1,2020 @@
+.694L1
+
+Apd _.2429.2694n
+
+9Q4ApU..
+
+,i2
+
+No. 2, 1994
+
+scale and instrumentation angle parameters (in each filter) were
+fine-tuned and the matching repeated until the HST-to-infra-
+red stellar positional match over nine frames of separation was
+perfect. Checks of the infrared-based on HST guide star coor-
+dinates for stars found between the two reference frames show
+rms offsets under 0”5. We estimate that the final coordinates of
+the infrared stars are accurate to 0°5 or better, chiefly limited
+by the unknown astrometric quality (flatness and pixel
+uniformity) of the PtSi arrays used.
+
+Provisional stellar magnitudes and colors (see below) were
+computed and examined for systematic effects. We found a
+significant tendency for stars imaged onto the outer 10% of the
+PtSi SQIID arrays to show unusual colors. This effect was
+discovered in plots of mean stellar colors (J —H), (H — K), and
+(J—K) versus raw array X and versus Y coordinates of the
+stars. Two of these functions showed anomalous stellar colors
+which were redder or bluer than stars imaged in the central
+portions of the array. To remove this effect, stars imaged onto
+the outer 10% of the array had their corresponding photo-
+metry rejected. Coordinates were established for the remaining
+stars in all the target frames, and all surviving data were
+merged into one database for the target data and another for
+the reference data. Duplicate stars, from neighboring target
+frames (up to four), were identified and their magnitudes and
+positions refined by a rule-based averaging process, which
+accounted for imperfect sky coverage of the individual J, H,
+and K SQIID arrays. Also, nonstellar entries (chiefly diffrac-
+tions spikes) were identified and removed from the database.
+
+Calibration sources were selected from the list of Elias et al.
+(1982) and were observed on the same nights and through
+similar air masses, as were observations of the target and refer-
+ence images. Since the SQIID system is close to the Johnson
+system (e.g., Lada, Young, & Green 1993) we elected to use the
+SQIID camera filters and arrays as our standard system, and
+to use in-band observations of the standards to establish the
+filter zero points independently. Since the standard were
+observed at about the same airmasses, infrared extinctions are
+very small (0.1—0.2 magnitudes per airmass), and our reported
+magnitudes and colors are likely not in error by much more
+than their photometric uncertainties determined by APPHOT.
+
+2.2. Millimeter-Wave, Molecular-Line Observations
+
+We obtained observations of the 110 GHz J = 1-0 '3CO,
+the 109 GHz J = 1-0 C'80, and the 98 GHz J = 2-1 CS
+molecular emission lines toward the IC 5146 cloud complex
+during the period between approximately 1991 January to
+1991 April. These observations were made using the AT&T
+Bell Laboratories 7m offset Cassegrain antenna, Located in
+Holmdel, New Jersey. This instrument had a very clean Gauss-
+ian beam with a FWHM of roughly 100’, which was indepen-
+dent of frequency between 98 and 115 GHz. The primary beam
+efficiency was about 87% and the aperture efficiency (which is
+determined by the 14dB edge taper of the illumination pattern)
+about 55%. The detector was a liquid-helium—cooled SIS
+receiver built by NRAO with a single sideband temperature
+Tssp ~ 75-130 K. The observations were made by both
+in-band frequency-switching, in which the reference frequency
+is displaced from the signal by 6.4 MHz, as well as the
+multiple-mapping position-switching mode described by Bally
+et al. (1987). We used a 250 kHz filterbank with 256 channels,
+one-half of which were sent to a spectrum expander (Henry
+1979) to give a resolution of 100 or 50 kHz (0.31 km s~* or 0.15
+km s~‘! at 98 GHz). Integration times were adjusted so that the
+
+DARK CLOUD IC 5146
+
+697
+
+rms noise temperature in the 50 kHz channels was 0.5 K for the
+13CO observations and 0.2 K for C!8O and CS observations.
+All data were calibrated with a blade chopper that permits
+rapid comparison between the sky and a 77 K liquid-nitrogen—
+cooled reference load or the 77 K load and an ambient tem-
+perature absorber. The receiver noise temperature and the
+temperature scale was determined by comparing a room tem-
+perature load to the liquid-nitrogen load. Then the sky bright-
+ness temperature was measured by comparison of the sky
+emission with the cold load. A simple atmospheric model was
+used to scale the observed intensities to the brightness tem-
+perature that would have been measured by this antenna
+above the atmosphere. The details of the receiver and cali-
+bration procedure have been described elsewhere (Pound,
+Bania, & Wilson 1990). All data were reduced using the
+COMB spectral line reduction package. Frequency-switched
+spectra were folded, and linear baselines were removed from
+the spectra. Baselines were fitted to that portion of the spec-
+trum which is devoid of emission. Spectra were examined, and
+bad channels were eliminated.
+
+3. RESULTS
+
+3.1. Molecular-Line Observations
+
+We first surveyed the complex in the ‘*CO line in a fast-
+mapping mode to determine the extent of the molecular emis-
+sion. Subsequent observations in the C'8O and CS emission
+lines were confined to those regions where significant '*CO
+emission was detected. These latter observations were obtained
+with typically 2 to 3 times the integration time as the 1**CO
+observations. Figure 1 shows the resulting maps of the inte-
+grated emission from the '*CO and CS.
+
+The map of integrated ‘*CO emission (Fig. 1a) delineates the
+extent of the molecular emission from this dark cloud complex.
+The distribution and extent of the '*CO emission agrees well
+with that of the optical extinction observed on the POSS print
+of this region, as well as with the lower resolution '*CO and
+13CO maps of this cloud obtained by Dobashi et al. (1992).
+Our '°CO map indicates that the complex consists of three
+major subunits: the cluster, the Northern Streamer, and the
+Southern Streamer. The cluster is located at the eastern end of
+the complex, and itself consists of three bright emission cores
+which were originally identified in the early '*CO observations
+of Lada & Elmegreen (1979). This region was designated as
+cloud E in the Dobashi et al. (1992) study and contains the
+brightest '*CO and !2CO emission in the complex. The second
+most prominent region is the Northern Streamer (cloud C in
+the Dobashi et al. nomenclature) which is located about 1°
+west and 0°3 north of the cluster region. The third most promi-
+nent region is the Southern Streamer (cloud B in the Dobashi
+et al. nomenclature) located about 0°3 south of the Southern
+Streamer.
+
+Figure 1b shows the integrated intensity CS map. The same
+general features that are evident in this map as are also seen in
+the '*CO map. However, in detail the two maps are strikingly
+different. The strongest CS emission originates in the Northern
+Streamer and not the cluster, clearly indicating that the 1*CO
+to CS intensity ratio varies strongly within the cloud. Emission
+from C!8O was mapped only around the cluster and in the
+Northern Streamer region. In these regions the distribution of
+C!8O emission is comparable to CS; in particular, like CS, the
+C!8O emission peaks in the Northern Streamer region rather
+than toward the cluster.
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+6941
+
+Apd _.2429.2694n
+
+94ApT
+
+,i2
+
+706
+
+of the molecule through the cloud. Consequently, it would
+appear that there is an inherent uncertainty (of roughly a factor
+of 5) in using '*CO observations to derive a hydrogen column
+densities along a given line of sight within a molecular cloud.
+
+Direct comparison of C!8O and CS emission throughout the
+cloud suggests that the larger-than-expected scatter in Figures
+14 and 15 is also due to intrinsic variations in the excitation or
+abundances of the two molecules. The emission from the two
+species is found to be linearly correlated with a scatter which is
+independent of the strength of the emission and whose disper-
+sion (i.€., O,esiduais) 1S a factor of 2 greater than the mean uncer-
+tainties in the integrated intensities of each line. Evidently,
+C’8O observations can be more reliably used to determine
+hydrogen column densities and molecular cloud mass than
+13CO observations, however, inherent uncertainties on the
+order of a factor of 2 are still present even for this tracer.
+
+Finally, we note that in all three cases the fits have intercepts
+that are positive. This results in the uncomfortable prediction
+of molecular emission at an extinction of zero magnitudes. This
+could be produced by a zero-point error in either the extinc-
+tion or molecular-line measurements or by some measurement
+bias at low extinctions and/or integrated intensities. We have
+not identified any such effects in our data, and at the present
+time we have no explanation for this property of the fits. We
+did investigate the possibility of a mismatch between our
+square measurement box and the Gaussian radio telescope
+beam, which is sensitive to emission, located outside its half-
+power beamwidth and beyond the area of the measurement
+box. To investigate this possibility we doubled the area of the
+measurement box and redetermined the extinctions at each
+point in the ‘°CO grid. This larger box had diameter of 2’4.
+Fitting the integrated intensity versus extinction data over
+similar ranges in extinction, we found that the intercepts of the
+fits typically decreased in value but still remained positive
+when the larger box size was used.
+
+5.4. Molecular Abundances
+
+The ultimate goal of comparison of molecular-line emission
+with extinction measurements is to determine directly the
+abundance of each molecule relative to hydrogen. Until now,
+such determinations have been made at relatively low extinc-
+tions (0O—4 mag; e.g., Dickman 1978; Minn & Greenberg 1979;
+Sandell et al. 1981; Bachiller & Cernicharo 1984; Mattila
+1986; Duvert, Cernicharo, & Baudry 1968; Langer et al. 1989,
+etc.) Our extinction map of IC 5146 offers the possibility of
+making such determinations not only in more opaque regions
+of a molecular cloud, but also, for the first time, for molecules,
+such as CS, which require high densities for excitation.
+
+In principle, we can convert our integrated intensities to
+molecular column densities at each point in the map, compare
+these to the (H — K) derived extinctions and thereby directly
+measure the abundance of each molecule at over 500 locations
+in the cloud. However, with the current single-transition
+molecular-line data set we are limited to determining LTE
+column densities for each of the observed molecules. We expect
+that non-LTE effects may be operating in the cloud, and LTE
+column density estimates are likely to be somewhat inaccurate.
+Nonetheless, the LTE column densities for each molecule were
+calculated at each point in the cloud, assuming that the excita-
+tion temperature of ‘*CO and C'8O is the same as that of
+
+~ !2CO, which has been measured by Dobashi et al. (1993) to be
+
+about 10 K, and, in addition, found to be constant throughout
+the cloud to a good approximation. For the CS emission, we
+
+LADA ET AL.
+
+ 
+
+Vol. 429
+
+104
+=
+{
+S 6103
+§
+.
+= 102}
+x
+SQ
+= 101
+S
+S
+S 700
+\
+>
+
+10-1
+
+0 10 20 30
+
+Visual Extinction (magnitudes)
+
+Fic. 16—The variation of the N(‘*CO) LTE column density to A, ratio
+with extinction. The dashed line represents the mean value of the ratio deter-
+mined between 0—5 mag, where the ‘CO emission is optically thin.
+
+assumed that the levels were subthermally excited and that the
+excitation temperature was only 5 K. We also calculated the
+LTE column densities of CS assuming an excitation tem-
+perature of 10 K, and the results were not significantly different
+from the LTE calculations based on a 5 K temperature.
+
+We obtained the ratio of LTE molecular column density to
+Ay at each point in the cloud for each molecule. The results are
+displayed in Figures 16, 17, and 18, where we plot this ratio
+versus extinction for 1*CO, C!8O, and CS, respectively. For
+each molecule we obtained the mean abundance ratio over the
+range for which the integrated intensities were found to be
+linearly correlated with extinction:
+
+<N(13CO), 72/Ap> = 2.18 + 0.24 x 10'° cm~? mag™?
+(Ay < 5 mag),
+<N(C!80), rp/Ay) = 2.29 + 0.72 x 10'* cm~? mag™!
+(A, < 15 mag),
+<N(CS), re/Ay> = 4.5 + 0.9 x 10°? cm~? mag~?
+(Ay < 15 mag).
+
+This mean ratio is shown in each figure as a dashed horizon-
+tal line. We also determined, in a similar manner, the
+
+E(H-K) (magnitudes)
+
+ 
+
+0.0 O02 0.4 06 O08 10 2 04 #16 718 20
+103
+~
+t
+> 102
+€
+.
+= 70!
+=
+S
+= 109 b
+\
+S
+2 70-1
+S
+Ne
+=
+10-2
+0 10 20 30
+
+Visual Extinction (magnitudes)
+
+Fic. 17.—The variation of the N(C!8O) LTE column density to A, ratio
+with extinction and color excess. The dashed line represents the mean value of
+the ratio determined between 0-15 mag, where the C!8O emission is optically
+thin.
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+.694L1
+
+Apd _.2429.2694n
+
+94Ap0..
+
+,i2
+
+696 LADA ET AL.
+
+this experiment, we obtained data in the J, H, and K bands.
+The optics were configured to provide a field of view of
+approximately 5'9 x 5'9 and a resolution of 1°39 per pixel at J
+band. At K band the resolution was 1°36 per pixel. SQUD
+JHK images were obtained in three regions of the cloud
+complex. Twenty-four images were obtained at each wave-
+length band in a roughly 5 x 5 mosaic grid centered on the
+optical cluster, IC 5146. An additional 24 SQUID fields were
+observed in a 3 x 8 mosaic grid toward a portion of the dark
+cloud well removed from the cluster. Finally, four SQUID fields
+were observed at each band in a control region off the cluster
+and molecular cloud in an area apparently devoid of extinction
+and molecular emission. In this paper we will discuss the
+results obtained for the dark cloud region, which we designate
+as the Northern Streamer, and the four control fields. Observa-
+tions of the cluster region will be presented elsewhere (Lada et
+al. 1994).
+
+The fields observed in the direction of the Northern
+Streamer were spatially overlapped by ~0‘9 in both mght
+ascension and declination, allowing for both the accurate posi-
+tional placement of the mosaicked fields and redundancy of
+our photometric measurements of sources located in the over-
+lapped regions. The control field images were not overlapped.
+The integration time in each filter, for observations both on
+and off IC 5146, was 3 minutes. Each on field was observed
+twice, with a 15” offset or dither between observations. A com-
+bination of the standard Image Reduction and Analysis
+Facility (IRAF) routines’ and custom software were used for
+data reduction. The data were reduced by subtracting a dark
+frame from each image, dividing by a flat field, and then sub-
+tracting the value of the local sky. To construct flat fields, the
+median sky level for each subtracted image was determined
+and used to normalize each frame. Eight different flat fields for
+each filter were constructed by median filtering (to remove
+stars and extended emission) the 13 time-neighboring normal-
+ized images. These 24 (8 frames times 3 filters) flat-field images
+were also autonormalized before division into the appropriate
+dark-corrected (but not normalized) images.
+
+Comparisons to the conventional sky removal method
+(direct, frame-by-frame sky subtraction) were performed to
+verify the quality of the images produced by our noncon-
+ventional method. Analysis of photometric values returned by
+both methods found virtually identical results for identified
+stars. However, our median-median method produced images
+with lower rms sky noise and a lack of the common negative-
+going defects produced by incomplete removal of extended
+stellar point-spread functions (PSFs) in the conventional
+method sky (reference) images. Because the sky brightness
+levels were significantly variable during the observing for this
+project, the initial normalization before median filtering
+enabled more complete removal of the stellar PSFs in the com-
+puted flat-field frames than occurred using the conventional
+approach.
+
+Stellar profiles were examined for each image and showed
+full width at half-maximum (FWHM) intensities between 175
+and 2"1, with a mean of 179 and a dispersion of 0°1. The
+routine DAOFIND was used to extract sources with a finding
+threshold set to 5 times the rms sky noise in each frame. Photo-
+metry was obtained for all extracted stars in the final images
+
+' IRAF is distributed by the National Optical Observatories, which are
+operated by the Association of Universities for Research in Astronomy
+(AURA), under cooperative agreement with the National Science Foundation.
+
+Vol. 429
+
+using APPHOT for a number of different aperture sizes.
+Photometric measurements were independently obtained for
+each dithered pair of images toward each field. Custom stellar
+matching software was used to compare the magnitudes
+obtained for each dithered stellar pair. Plots of the difference
+magnitudes for each star versus the mean magnitude showed
+no systematic offset, while still displaying the flared errors at
+faint magnitudes expected. Further, plots of the difference mag-
+nitude versus the internal photometric uncertainties, returned
+by APPHOT, showed no unexpected effects or features. We
+conclude that the internal APPHOT uncertainties are reason-
+ably good estimators of the true photometric uncertainties.
+
+Histograms of the apparent magnitude distributions of stars
+which were identified and matched across the dithered pairs of
+frames were plotted along with histograms of the magnitudes
+for stars which were found in only one or the other frame. The
+latter showed a peak at faint magnitudes exactly coinciding
+with the faint edge (the faint magnitude half-power point) of
+the peak of the matched star distribution. The conclusion
+drawn was that both distributions are returning information
+concerning the completeness limit, in the form of the numbers
+of stars detected and missed as a function of apparent magni-
+tude. Using these distributions together and moving to bright-
+er magnitudes, where the fraction of missed stars falls to 10%
+or less, we estimate that our imaging and stellar photometric
+extractions are 90% complete in the individual dithered image
+pairs to m, = 14.6, my, = 14.1, and m, = 13.1. In order to
+extend the completeness another 0.75 mag fainter, each pair of
+dithered images was registered and added, and stars were
+refound and photometered, yielding totals of 5793, 5732, and
+3184 stars in the J, H, and K bands, respectively, for the 24
+target and four reference fields.
+
+The average number of stars found per frame was about 200
+at J, reducing the need for PSF fitting photometric extractions.
+However, some stars were closely placed, requiring stopping
+down the synthetic stellar apertures to avoid contamination
+for these stars. In order to determine the run of stellar flux with
+aperture size, moderately bright, but well-isolated stars on
+each frame, and in each filter, were measured for all stellar
+apertures (from 273 to 370 radius) and for two very large aper-
+tures (up to 575 radius). All stellar magnitudes were thus scaled
+up to a uniform, large effective aperture.
+
+Coordinates (epoch 2000) for stars found in the Northern
+Streamer (but not the reference fields) were established based
+on a combination of Hubble Space Telescope (HST) guide
+stars and stellar matches from neighboring infrared images.
+Two of the infrared fields, located on opposite right assession
+ends of the 8(a«) x 3(6) mosaic, had three or more HST guide
+stars contained in them. Matching of these optical stars to their
+infrared counterparts established rough plate scales and instru-
+ment rotation angles, relative to the equatorial system. Frame
+center coordinates were determined and used to generate equa-
+torial coordinates for infrared stars near the image boundaries
+which had corresponding matching infrared stars in neighbor-
+ing frames. This coordinte passing technique was repeated
+from the initial mosaic frame (containing 5 HST guide stars)
+through nine neighboring frames to the check frame
+(containing three HST guide stars). In this fashion, the effective
+pixel resolution for coordinate determination is increased from
+about 100-200 (the largest pixel separation between HST stars
+on a single infrared image) to about 1500-1800 (separation
+across eight frames). Careful attention to proper projections
+(gnomic) and deprojections were included in the process. Plate
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+6941
+
+Apd _.2429.2694n
+
+94ApT
+
+,i2
+
+Dec (Degrees)
+
+   
+
+[ ] Counting Box
+
+47-927.0 326.9 326.8 326.7 326.6 326.5 326.4 326.3 326.2 326.1 326.0
+RA (Degrees)
+
+Fic. 3—Map of the distribution of J-band star counts derived from the
+data plotted in Figure 2 using a 1.5 arc min size counting box and sampled at
+the Nyquist spatial frequency. The lowest contour is solid and corresponds to
+2 counts. Subsequent solid contours increase in value in steps of 2 counts. The
+lowest dashed contour has a value of 12 counts and subsequent contours
+increase in steps of 2 counts.
+
+square ranged from 0 to 30, with a mean of 12.5 stars for all
+1026 boxes in the grid. Only three squares contained no stars.
+
+Figure 3 shows the resulting contour map of the J-band star
+counts in the Northern Streamer. The contour map has been
+coded so that the regions of lowest surface density are more
+prominent. The solid contours trace out the regions of highest
+dust extinction in the cloud. We can convert the star counts to
+an extinction with knowledge of both the luminosity function
+and surface density of stars in the control field via
+
+Ay = (Ay/A)) log (Note/Non)/bz »
+
+where Nor is the surface density of stars in the control field,
+N,,n 18 the corresponding surface density of stars (at any point)
+in the cloud, b, is the slope of the cumlative J luminosity
+function of the stars in the control field, and the ratio A,/A, is
+the reddening law between V and J wavelengths. For our
+control field, we find that Nop = 20 in a square box 1'5 on a
+side, and b, = 0.36 mag. The outermost solid contour rep-
+resents a level of 10 counts and corresponds to a visual extinc-
+tion of 3 mag. Within this contour level structure is clearly
+evident. Figure 4 shows a contour map of integrated CS emis-
+sion presented at the same scale as the star count map. The CS
+emission traces dense (ny, => 10* cm~*) molecular gas in the
+cloud. There is a good degree of similarity between the two
+maps, confirming our proposition that the infrared star counts
+are a good tracer of the dust distribution in the dense, inner
+portions of this dark cloud. Furthermore, the close similarity
+between the two maps suggests that a significant fraction of the
+stars observed are background field stars unrelated to the
+cloud.
+
+Dec 2000.0 (Degrees)
+
+  
+
+47.4
+327.0 326.9 326.8 326.7 326.6 326.5 326.4 326.3 .326.2 326.1 326.0
+RA 2000.0 (Degrees)
+Fic. 4.—Contour map of CS (J = 2 > 1) emission presented at the same
+
+scale as Fig. 3 for comparison with the star count data. Coordinates are also
+epoch 2000.
+
+DARK CLOUD IC 5146
+
+699
+
+Our observations represent a substantial improvement over
+previous star counting studies of molecular clouds, which were
+done exclusively at visual wavelengths (e.g., Dickman 1978;
+Cernicharo & Bachiller 1984). For example, consider the star
+counting study of the Taurus and Perseus molecular clouds by
+Cernicharo & Bachiller (1984), one of the most sensitive and
+extensive optical star counting studies ever done for a molecu-
+lar cloud. In this study, a visual extinction of only 4.5 mag was
+typically sufficient to render a reseau square of 2'5 x 2!5 in size
+void of stars! For Ay ~ 3.5 mag, only 1—2 optical stars were
+counted in such a 2'5 x 2'5 square. However, we find that it
+requires visual extinctions in excess of roughly 17 mag to
+reduce our J-band counts to only 1—2 sources in a square of
+similar size. Thus, the dynamic range in visual magnitudes of
+extinction is at least a factor of nearly 5 greater than that of the
+Taurus-Perseus experiment. Consequently, our J-band star
+counts trace the distribution of dust to higher column densities
+with higher spatial resolution than has previously been pos-
+sible in any molecular cloud.
+
+3.2.2. Stellar Colors
+
+The JHK infrared color-color diagram is a powerful tool for
+investigating the nature of stellar objects (Lada & Adams
+1992). In Figures Sa and 5b, we show the JHK color-color
+diagrams for the control fields (Fig. 5a) and the Northern
+Streamer (Fig. 5b). These plots display only those stars in each
+region for which photometric uncertainties in each color were
+less than 0.10 mag. Also plotted in the figures are the locus of
+points. corresponding to the unreddened main sequence and
+the locus of points corresponding to the positions of giant
+stars. Two parallel dashed lines form the reddening zone for
+main sequence stars. The bulk of the stars in the control field
+have colors of G-K stars. Many of these are presumably giant
+stars. Only a handful of stars fall in the infrared excess region
+to the right of the reddening zone. The two stars with the
+largest infrared excess were found to be doubles, with one
+component visible only in the K band. Of the roughly 900
+JHK stars observed with high-quality photometry toward the
+Northern Streamer, only a dozen or so show colors suggestive
+of significant infrared excess (none of these were obvious
+doubles). The vast majority of stars show normal stellar colors
+with various amounts of reddening. Comparison of the two
+diagrams strongly suggests that the vast majority of stars
+observed toward IC 5146 are field stars and unrelated to the
+cloud. Moreover, a significant number of these stars are clearly
+reddened background objects observed through the cloud.
+
+4. ANALYSIS: THE COLOR EXCESS METHOD FOR
+EXTINCTION DETERMINATION
+
+It has been recognized for some time that infrared colors
+could be used to directly measure the extinction and its dis-
+tribution through a molecular cloud (e.g., Hyland 1980; Jones |
+et al. 1981; Frerking et al. 1982). The line-of-sight extinction to
+an individual star can be directly determined from knowledge
+of its color excess and the extinction law. The color excess,
+FE(H — K), can be directly derived from observations, provided
+the intrinsic color of the star is known:
+
+E(H — K) = (H — K) observea ~ (H — K ) intrinsic (1)
+
+The intrinsic (HW — K) colors of normal main sequence and
+giant stars have a relatively small range: between 0.0 to 0.3
+magnitudes for stars with spectral types between AO and late
+M (e.g., Koornneef 1983). With the simple assumption that the
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+No. 2, 1994
+
+103
+102
+
+101 &
+
+10-1
+
+N(CS)/Av (10171 em-2 mag-1)
+S
+S
+
+ 
+
+0 10 20 30
+Visual Extinction (magnitudes)
+Fic. 18—The variation of the N(CS) LTE column density to A, ratio with
+
+extinction. The dashed line represents the mean value of the ratio determined
+between 0-15 mag, where the CS emission is optically thin.
+
+N('?CO)/A, ratio using extinctions derived with a 2/4 size
+measuring box and found the ratio to be within 10% of the
+value quoted above for the 1/7 boxes. We note that for ‘°CO,
+the calculated abundance ratio falls about a factor of 6 below
+the mean value at the highest extinctions, illustrating once
+more the effects of high optical depths on the '3CO emission.
+Clearly, '3CO is not a good tracer of gas column density at
+extinctions much greater than about 10 mag. On the other
+hand, the derived LTE abundances of C!8O and CS at the
+highest extinctions are within only a factor of 2 of the esti-
+mated mean value, and this is less than the overall scatter in
+the calculated ratios.
+
+It is instructive to investigate the relative abundance of
+13CO and C'8O as a function of cloud depth. In Fig. 19 we
+plot the mean ratio of the **CO and C*8O column densities as
+a function of A,. This ratio has been computed by binning the
+individually calculated ratios into intervals of A, 3 mag in
+width and taking the mean value of the ratio 1n each extinction
+bin. The upper curve shows the ratio of the column densities;
+the lower plot shows the calculated dispersion in this ratio. In
+the outer parts of the cloud (ie., Ay < 10 mag) the '°CO to
+C!8O column density ratio is large, considerably greater than
+the terrestrial ratio of 5.5. Such large ratios were also found at
+low extinctions in the studies of Bachiller & Cernicharo (1986)
+
+E(H-K) (magnitudes)
+1.0 1.5 2.0 2.5
+
+0.0 0.5
+
+20
+
+18
+—e@— Mean
+16 ---M-- Dispersion
+
+14
+
+12
+10
+
+<N(13C0)/N(C180)> or Dispersion
+
+ 
+
+So © KR DD &W
+
+0 10 20 30 40
+
+Visual Extinction (magnitudes)
+
+Fic. 19.—The variation of the mean N(!*CO)/N(C!8O) column density
+ratio and its dispersion with extinction (and color excess) in the cloud. The
+horizontal line at a value 5.5 represents the terrestrial value of this ratio. See
+text for discussion.
+
+DARK CLOUD IC 5146 707
+
+and Frerking et al. (1982) and are indicative of enhanced ‘*CO
+abundances, presumably due to some combination of chemical
+fractionation of ‘CO and selective photodissociation of C18O
+(e.g., van Dishoeck & Black 1988). For A, greater than 10 mag,
+the column density ratio is essentially terrestrial. However, it is
+somewhat difficult to interpret the significance of this, given
+that the '*CO emission is optically thick in these regions of the
+cloud. (We note that over the same Ay, intervals, the mean
+integrated intensity ratio of the two species varies in a very
+similar manner from values of roughly 14 to 4). However, what
+is striking about Fig. 14 is that the dispersion in the ratio of the
+column densities is a also a strong function of extinction. In the
+outer parts of the cloud, the dispersion is very large, while
+beyond 10 mag depth it is small. This strongly suggests that the
+abundances of one or both of the species of CO are unstable in
+the outer parts (i.e., A, < 10 mag) of the cloud, probably due to
+active chemical processing by UV radiation. For visual extinc-
+tions greater than 10 mag, the C’8O and 1°CO abundances
+appear quite stable.
+
+5.5. Comparison With Previous Studies
+
+It would be useful to compare the abundances derived in this
+study to abundances derived using traditional optical star
+count methods. Unfortunately, such abundance studies do not
+exist for this cloud. However, !*CO abundances derived from
+star count studies have been reported for a number of other
+molecular clouds. These LTE abundances compare well to
+those derived here for IC 5146 (e.g., Irvine, Goldsmith, & Hyjal-
+marson 1987; Bachiller & Cernicharo 1986). In particular, the
+mean !3CO abundance derived by Dickman (1978) for a heter-
+ogeneous sample of molecular clouds using star counts is
+essentially the same as our '*CO abundance determination for
+the Northern Streamer of IC 5146. Our abundance also
+appears to be similar to those derived from star count studies
+of the Perseus dark clouds (Bachiller & Cernicharo 1986), the
+Ophiuchi dark clouds (Dickman & Herbst 1990), the L1495
+dark cloud (Duvert et al. 1986), and BS (Langer et al. 1989).
+Similarly, our C!®O abundances compare well to those derived
+from star counts for L 1495 (Duvert et al. 1986) and BS (Langer
+et al. 1989). However, it is not clear how much weight should
+be attached to the apparent similarity in derived abundances
+between our study and previous work. Except for Dickman
+(1978), the abundances quoted in star count studies are derived
+from the slopes of linear fits to column density versus extinc-
+tion plots, whereas in this study and in Dickman (1978), the
+abundance is derived from direct averaging of the individual
+determinations. In principle, both determinations should give
+the same result. However, we found that although our linear
+fits to the various column density versus extinction relations
+indicated that the quantities were correlated to a very high
+probability, the fits were also characterized by relatively low
+correlation coefficients (0.5—0.7). This suggested that using the
+slopes of the relations to derive abundances could introduce
+relatively large (a factor of 2) uncertainties. Consequently, we
+adopted the abundances derived from averaging the individual
+determinations through the cloud. These abundance determi-
+nations were typically a factor of 1.5—2 times greater than those
+we derived from the slopes of linear fits to the column density
+
+versus A, relations for each molecule.
+
+It is perhaps most interesting to compare our results to those
+of Frerking et al. (1982), who derived **CO and C'8O abun-
+dances in the Taurus and Ophiuchi clouds also using infrared
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+.694L1
+
+Apd _.2429.2694n
+
+9Q4ApU..
+
+,i2
+
+ 
+
+average (H—K) color of a typical field star is 0.15 mag, the
+maximum resulting uncertainty introduced to a determintion
+of the total line-of-sight visual extinction (A,) would be only
+about 2.5 visual magnitudes. Clearly, more accurate color
+excess determinations are possible if the intrinsic colors of stars
+background to a target cloud are known. Observations of
+nearby control fields can be used very effectively to determine
+the intrinsic colors of background stars, provided that the
+control field stars do not themselves suffer significant random
+extinction.
+
+Inspection of Figure 5a shows that the observed colors of the
+control field stars near IC 5146 are well constrained to normal,
+mostly main-sequence values. There is no evidence of any sig-
+nificant amounts of reddening in this color-color diagram.
+Therefore, with the assumption that all the stars observed
+toward the IC 5146 dark cloud are background field stars
+identical in nature to those in the control fields, we can use the
+mean (H—K) color of the control field stars to approximate
+the intrinsic (H — K) color of all stars background to the cloud:
+
+(H — K )intrinsic = ((H — K)> controt = 0.13 + 0.01 mag . (2)
+
+This mean H — K color is equivalent to that of an early K star
+(Koornneef 1983; Bessel & Bret 1988). Using equations (1) and
+(2) we determined the color excess for 1295 stars with H- and
+K-band photometric uncertainties less than 0.15 mag observed
+in the direction of the Northern Streamer. Of these, all but
+about 30 stars were detected in all three infrared bands. Color
+excesses were determined for only those JHK stars which
+showed normal colors (1.e., stars with infrared excess were not
+included in the sample). Our database of color excesses and
+source positions represents a map of the distribution of color
+excess (and extinction) through the cloud which is obtained
+with very high spatial resolution (ie., 1’—2”). However, this
+map is heavily undersampled, and the measurement points
+(stars) are distributed across it in a spatially nonuniform
+fashion. However, these data can be used to construct a
+
+ 
+
+700 LADA ET AL. Vol. 429
+3.50 3.50
+HH Typical Error
+3.00 3.00
+2.50 2.50
+2.00 2.00
+= =
+l 1.50 l 1.50
+2
+2 2
+1.00 1.00
+0.50 0.50
+Main Sequence Main Sequence
+0.00 Reddening Vector 0.00 Reddening Vector
+Giant Branch Giant Branch
+IR Source IR Source
+—-0.50 -0.50
+-0.50 0.00 0.50 1.00 17.50 2.00 2.50 3.00 83.50 -0.50 0.00 0.50 17.00 7.50 2.00 2.50 3.00 $3.50
+(H-K) (H-K)
+Fic. Sa Fic. 5b
+Fic. 5—{a) JHK color-color diagram for the control field observations. (b) JHK color-color diagram for the stars in the Northern Streamer region. See text for
+discussion.
+
+uniform and well-sampled map of the distribution of extinction
+through the cloud by effectively smoothing the angular
+resolution of the infrared observations to size scales compara-
+ble to the star count and millimeter-wave observations. To do
+this we binned the data in a manner analogous to star
+counting. That is, we scanned the map with a square spatial
+filter 15 x 1/5 in size and sampled at the Nyquist (Spatial)
+frequency. Thus, we obtained the mean color excess of all the
+stars in the square, viz.,
+
+<E(H — K)> = 2é=1 HE) (3)
+
+The result is a fully sampled, high-resolution map of the
+infrared color excess through the cloud. Since the infrared
+color excess is proportional to dust column density, this is
+equivalent to a map of dust column density through the cloud.
+Following convention, we find it convenient to represent the
+dust column density in terms of A,, the extinction in the visual
+wavelength band, rather than color excess. The extinction at
+any wavelength is directly related to the color excess by a
+simple scale factor, which is given by the reddening law. Conse-
+quently, we converted the mean color excess at each point to
+an equivalent visual mean extinction using the normal
+reddening law (Rieke & Lebosfky 1985):
+
+<Ay> = 15.9(E(H —K)) . (4)
+
+The resulting extinction map is displayed in Figure 6 and apart
+from the scale factor of 15.9 is identical to a map of color
+excess. The derived extinction ranges from about 1 magnitude
+to 40 magnitudes and corresponds to a variation in dust
+column density of about a factor of 40 from the low extinction
+outer regions of the cloud to the most opaque cores. The
+overall shape and structure in the map is very similar to both
+the J-band star count map and the CS map. By spatially inte-
+grating the extinction map, we can determine a very accurate
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+No. 2, 1994
+
+highest extinctions the dispersion is quite small and the abun-
+dance of C!8O appears very stable.
+
+8. From our observations we derive the following mean
+abundance ratios: 2.18+0.24x10'> cm? mag™’,
+2.29 + 0.72 x 10'* cm~? mag™', and 4.5 + 0.9 x 1011 cm~?
+mag‘ for '3CO, C*8O, and CS, respectively.
+
+DARK CLOUD IC 5146 709
+
+We thank John Black, Ned Ladd, Colin Masson, Lee
+Mundy, and Joao Yun for helpful discussions. This study was
+largely supported by NSF grant AST 8815753 awarded to the
+University of Arizona. Partial support was also provided by
+NASA grant NAG 5-1997 and NSF grants AST 8915606 and
+AST 9221194 awarded to Boston University.
+
+REFERENCES
+
+Bachall, J., & Soneria, S. 1980, ApJ, 44, 73
+
+Bachiller, T., & Cernicharo, J. 1986, A&A, 166, 283
+
+Bally, J., Stark, A. A., Wilson, R. W., & Henkel, C. 1987, ApJS, 65, 113
+
+Barnes, P., Myers, P. C., & Heyer, M. 1994, in preparation
+
+Bessell, M. S., & Brett, J. M. 1988, PASP, 100, 1134
+
+Bohlin, R. C., Savage, B. D., & Drake, J. F. 1978, ApJ, 224, 132
+
+Bok, B. J. 1937, The Distribution of Stars in Space (Chicago: Univ. of Chicago
+Press)
+
+Bok, B. J., & Cordwell, C. S. 1973, in Molecules in the Galactic Environment,
+ed. M. A. Gordon & L. E. Synder (New York: Wiley), 53
+
+Cernicharo, J., & Bachiller, R. 1984, A&AS, 58, 327
+
+Dickman, R. L. 1978, ApJS, 37, 407
+
+Dickman, R. L., & Herbst, W. 1990, ApJ, 357, 531
+
+Dobashi, K., Yoonekura, Y., Mizuno, A., & Fukui, Y. 1992, AJ, 104, 1525
+
+Duvert, G., Cernicharo, J., & Baudry, A. 1986, A&A, 164, 2
+
+Elias, J. H. 1978, ApJ, 223, 859
+
+Elias, J. H., Frogel, J. A., Matthews, K., & Neugebauer, G. 1982, AJ, 87, 1029
+
+Frerking, M. A., Langer, W. D., & Wilson, R. W. 1982, ApJ, 262, 590
+
+Henry, P. 1979, Rev. Sci. Instr., 50, 185
+
+Hyland, A. R. 1981, in Infrared Astronomy, ed. C. G. Wynn-Williams & D. P.
+Cruikshank (Dordrecht: Reidel), 125
+
+Irvine, W. M., Goldsmith, P. F., & Hjalmarson, A. 1987, in Interstellar Pro-
+cesses, ed. D. J. Hollenbach & H. A. Thronson (Dordrecht: Reidel), 561
+
+Jenkins, E. B., & Savage, D. B. 1974, ApJ, 187, 243
+
+Jones, T. J., Hyland, A. R., & Bailey, J. A. 1981, ApJ, 282, 675
+Koornneef, J. 1983, A&A, 128, 84
+
+Lada, E. A., Lada, C. J., & Bally, J. 1994, in preparation
+
+Lada, C. J., & Adams, F. C. 1992, ApJ, 393, 278
+
+Lada, C. J., DePoy, D., Merrill, M., & Gatley, I. ApJ, 374, 533
+Lada, C. J., & Elmegreen, B. G. 1978, AJ, 84, 336
+
+Lada, C. J., Young, E. T., & Greene, T. P. 1993, ApJ, 408, 471
+eee D., Wilson, R. W., Goldsmith, P. F., & Beichman, C. A. 1989, ApJ,
+Lilley, A. E. 1955, ApJ, 121, 559
+
+Mathis, J. S. 1990, ARA&A, 28, 37
+
+Mattila, K. 1986, A&A, 160, 157
+
+Minn, Y. K., & Greenberg, J. M. 1979, A&A, 77, 37
+
+Pound, M. W., Bania, T. M., & Wilson, R. W. 1990, ApJ, 351, 165
+Rieke, G. H., & Lebofsky, M. J. 1985, ApJ, 288, 618
+
+Rossano, G. S. 1980, AJ, 85, 1218
+
+Sandell, G., Johansson, L. E. B., Nguyen-Q-Rieu, & Mattila, L. 1981, A&A, 97,
+Savage, B. D., & Mathis, J. S. 1979, ARA&A, 17, 73
+
+Straw, S. M., & Hyland, A. R. 1989, ApJ, 340, 318
+
+Swade, D. 1989, ApJ, 345, 828
+
+Swade, D., & Schloerb, P. F. 1992, ApJ, 392, 543
+
+van Dishoeck, E., & Black, J. H. 1988, ApJ, 334, 771
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+.694L1
+
+J...429..69411
+
+J..
+
+1OW
+iy
+
+St
+IE!
+I~!
+
+708
+
+color-excesses of background stars. Their methodology was
+very similar to ours, except that they measured the colors of
+only a single star at the position of each CO observation.
+Moreover, they were only able to determine extinctions toward
+roughly a dozen stars of known spectral type in each of the
+clouds and were not able to map the distributions of extinc-
+tions. However, they were able to determine the abundance of
+13CO in Taurus along lines of sight showing A,’s of about 20
+mag. Although they measured the abundances toward only
+about a dozen stars, their plot of N(‘*CO) versus A, for the
+Taurus clouds reveals all the same important qualitative fea-
+tures as we find for IC 5146 from Figure 8 of this paper (1.e., a
+more or less linear correlation of '*CO column density, with
+Ay up to about 5 mag with clear evidence for effects of satura-
+tion at higher extinctions). However, the overall ‘°CO abun-
+dance they derive appears to be about a factor of 2 lower than
+that we have derived for IC 5146. On the other hand, for
+Ophiuchus, where their measurements extended out to an A,
+of only about 10 mag, they derive a similar ‘*CO abundance as
+derived here but find that the ‘*CO column density appears to
+be linearly correlated with extinction out to 10 mag, a result
+similar to that reported by Dickman & Herbst (1990). Our
+data could also be fitted by a linear function out to 8-10 mag,
+but the resulting slope is significantly flatter than that derived
+for the 0-5 mag range, and this suggests that caution needs to
+be applied when extending such relations beyond 5—6 magni-
+tudes of visual extinction. The abundances Frerking et al.
+(1982) derived for C‘8O in Taurus and Ophiuchus are quite
+similar to those derived here for IC 5146.
+
+Our CS abundance determination is the first direct CS abun-
+dance determination to be made for a dense molecular cloud.
+Prior determinations of CS abundances in dark clouds have
+been accomplished by comparing the derived CS column
+density with an estimate of the molecular hydrogen density,
+which is indirectly derived either from excitation calculations
+or by a direct comparison with the observed column density of
+another molecule, such as C1®O, whose abundance relative to
+H, is assumed to be known (e.g., Swade 1989). To date, almost
+all such determinations have been made in warm (T, ~ 20-50
+K), massive, and dense cores such as Orion and M17, which
+have significant star-formation activity within them. The
+derived CS abundances in these regions is about an order of
+magnitude larger than derived here for the Northern Streamer
+(e.g., Irvine et al. 1987 and references therein), although there
+are large variations in these measurements. On the other hand,
+our derived CS abundance is comparable to that(~5 x 107 *°)
+recently derived for the dark cloud L134N by Swade & Sch-
+loerb (1992) from observations and analysis of the CS
+J =2-—-1andJ = 3 > 2 transitions.
+
+6. SUMMARY AND CONCLUSIONS
+
+We have developed a method which uses observations of the
+infrared color excesses of background stars to directly measure
+and map the distribution of dust extinction through a molecu-
+lar cloud. Because infrared excess is directly proportional to
+extinction, this method provides a more direct and accurate
+measure of extinction than does star counts. Moreover,
+because the infrared color excess is also proportional to dust
+column density, the derived extinction map reflects the actual
+distribution of dust through a cloud. We have applied this
+technique to determine the distribution of extinction in a dark
+cloud near the cluster IC 5146. The results are compared to
+
+LADA ET AL.
+
+Vol. 429
+
+13CO, C180, and CS molecular-line observations obtained at
+the same angular resolution. The primary results derived from
+our study can be summarized as follows.
+
+1. We have constructed a detailed map of the distribution of
+extinction for the Northern Streamer cloud of the IC 5146
+cloud complex at an effective spatial resolution of 1'5. We have
+integrated this map to determine the total mass of the cloud
+and find a value of 2800(D/1 kpc)? with a statistical uncertainty
+of +28 (D/1 kpc)? Mo for those regions where Ay, is greater
+than 4 mag.
+
+2. We find that the dispersion in our extinction measure-
+ments varies with derived mean extinction in an interesting
+and well-determined manner. In particular, the dispersion or
+error associated with an extinction determination appears to
+linearly increase with the derived mean extinction. In addition,
+the dispersion in the dispersion also increases with extinction.
+From analysis of the errors, modeling of the spatial distribu-
+tion of extinction on small scales, and modeling the contribu-
+tion of foreground stars, we find that variations in cloud
+structure on scales smaller than the resolution of our measure-
+ments dominate the observed errors at moderate and high
+extinctions in this cloud.
+
+3. From our models, we demonstrate that the form of the
+observed 64;,, versus Ay relation can be used to place con-
+straints on the nature of the spatial distribution of extinction
+on scales smaller than our resolution. In particular, we show
+that models in which the dust is distributed uniformly or in
+discrete high extinction clumps on scales smaller than 15 are
+inconsistent with the observations.
+
+4. We have derived extinctions at the same locations and at
+the same angular resolution (1/7) as the '°CO, C1O, and CS
+observations we have obtained for this cloud. From compari-
+son of the data we have determined the integrated intensity to
+A, ratios for ‘*CO, C*8O, and CS at higher angular resolution
+and to significantly deeper cloud depths (~30 visual
+magnitudes) than any previous study.
+
+5. The integrated intensities of ‘*CO, C'8O, and CS are
+found to be correlated with extinction. However, while the
+C!8O and CS emission appears to vary in a roughly linear
+manner over the entire range of measured extinction (i.e., 0-30
+mag), the variation of '*CO emission with A, is decidedly
+nonlinear. Our data clearly show that the ‘*CO emission satu-
+rates at cloud depths between 5—8 mag of visual extinction.
+This result has already been suggested in previous work per-
+formed at lower extinction ranges (e.g., Dickman 1978; Langer
+et al. 1989; Freking et al. 1982; Bachiller & Chernicaro 1986;
+Dickman & Herbst 1990).
+
+6. There is a large scatter in all three correlations. The bulk
+of this scatter appears to be intrinsic and indicates that the
+abundances and/or excitation conditions for the molecules
+vary significantly from point to point in the cloud. This sug-
+gests that there is an intrinsic uncertainty (of a factor of 2—5 in
+magnitude) associated with determining cloud hydrogen abun-
+dances or masses from molecular-line observations.
+
+7. The ratio of the of ‘*CO to C*8O LTE column densities
+varies with extinction. At extinctions below 10 mag, the ratio is
+significantly larger than the terrestrial value of 5.5, while it is
+very close to this value at larger cloud optical depths. More
+significantly, the dispersion in this column density ratio also
+varies with extinction and is very large for extinctions less than
+10 mag. This suggests that the abundances of '3CO and C'8O
+are unstable down to cloud depths as deep as 10 mag. At the
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+.694L1
+
+Apd _.2429.2694n
+
+9Q4ApU..
+
+,i2
+
+DARK CLOUD IC 5146 695
+
+the constancy of the gas-to-dust ratio in interstellar clouds,
+which has been observationally well established (e.g., Lilley
+1955; Jenkins & Savage 1974; Bohlin, Savage, & Drake 1978).
+In principle, the overall distribution of dust in a cloud can be
+directly traced by measurements of the extinction of back-
+ground starlight produced at visual and near-infrared wave-
+lengths by the cloud. Historically, such measurements have
+been severely limited by the lack of sufficient numbers of back-
+ground stars, which could be observed through the cloud.
+However, as we will demonstrate in this paper, the advent of
+sensitive near-infrared array cameras has dramatically altered
+this situation.
+
+Traditionally, the general method to derive the extinction in
+a dark molecular cloud has been throughout use of star counts
+(Bok & Cordwell 1973). In this method a rectilinear grid is
+overlaid on a photographic image of a cloud, and the number
+of stars in each box or reseau square in the grid is counted.
+These counts are compared to counts in a nearby, unobscured,
+comparison field. With knowledge of the (apparent) luminosity
+function of field stars in the general direction of the cloud, the
+ratio of counts ON and oFF the cloud can be converted directly
+into an extinction. This technique suffers from a number of
+limitations (Rossano 1980), the principal one being the uncer-
+tainty introduced by Poisson statistics. This uncertainty is
+given by ,/n, where n is the number of stars counted in a reseau
+square (Bok 1937).
+
+The most extensive star counting studies of molecular clouds
+have involved counts of stars on optical prints of the Palomar
+Observatory Sky Survey (e.g., Dickman 1978; Rossano 1978;
+Cernicharo & Bachiller 1984; Mattila 1986). Unfortunately,
+the dynamic range of such optical star counts is limited. For
+example, on an unobscured region of a POSS print in the
+Perseus region, there are typically 10* stars per square degree
+(Cernicharo & Bachiller 1984). However, on size scales of 2’—3’,
+comparable to those characteristic radio molecular-line obser-
+vations, only about 25-35 stars are counted in regions with no
+extinction. Consequently, only 3.5—4 mag of visual extinction
+are sufficient to reduce the number of stars within a single
+reseau square to unity. Moreover, systematic uncertainties can
+dominate statistical uncertainties in such studies (Rossano
+1980), rendering extinction estimates above about 3 visual mag
+highly uncertain. It would clearly be important to be able to
+determine extinctions in more opaque and denser regions of
+molecular clouds, where star formation occurs and molecules
+other than '*CO and !3CO are found.
+
+Since extinction decreases with wavelength, observations
+made at longer wavelengths can detect more background stars
+through a cloud and probe deeper cloud depths (e.g., Dickman
+& Herbst 1990; Straw & Hyland 1989). For example, a star
+suffering 10 mag of visual extinction will be extincted by 2.8
+mag at J (1.25 wm) and only 1.1 mag at K (2.2 wm). With the
+development of large-format infrared imaging detectors, it is
+now possible to obtain infrared star counts which are capable
+of measuring dust column densities over relatively larger
+regions of the sky with a dynamic range 5S—10 times larger than
+previous optical studies. More significantly, however, multi-
+channel array cameras make possible simultaneous, multicolor
+infrared surveys of molecular clouds. It has been long appre-
+ciated that infrared color excess can be used to directly deter-
+mine extinction to individual stars behind molecular clouds
+(e.g., Jones, Hyland, & Bailey 1981; Frerking, Langer, &
+Wilson 1982). However, with single-channel infrared detectors,
+only small numbers of background stars could be practically
+
+observed at more than one wavelength through any given
+molecular cloud. Consequently, such observations could not
+compete with star count studies for determining the distribu-
+tion of extinction through a cloud or for comparison with
+molecular-line observations. Infrared array cameras largely
+remove this limitation by making it possible to simulta-
+neously determine the colors of hundreds to thousands of
+background sources through a molecular cloud. This enables
+the implementation of a new and more direct technique for
+measuring and mapping extinction than star counting. This
+method, which we introduce and describe in this paper, uses
+measurements of infrared color excess together with certain
+aspects of star counting to directly derive and map the extinc-
+tion through a cloud. Because infrared color excess is pro-
+portional to dust column density, the extinction maps
+produced by this method also accurately trace the distribution
+of dust through a cloud.
+
+In this contribution, we report the initial results of the appli-
+cation of this method of extinction determination to the molec-
+ular cloud complex near IC 5146. IC 5146 is a young cluster in
+Cygnus. On optical photographs it appears associated with a
+large complex of dark clouds which extends more than 2° to its
+west. Overall, the cloud has a filamentary appearance and is
+morphologically similar to the famous p Ophiuchi cloud
+complex. Recently, Dobashi et al. (1992) obtained a large-scale
+“CO survey of the complex which traced its complete extent.
+Dobashi et al. (1992) derived a mass of approximately 4500
+Mo for this entire complex, which is slightly more massive
+than the well-known Taurus cloud complex.
+
+We have performed an extensive and coordinated near-
+infrared imaging/molecular-line survey of a large portion of
+this dark cloud. From our infrared observations we obtained
+(H — K) infrared colors of more than 1000 stars and used them
+to directly measure and map the extinction through the cloud
+at the same and higher angular resolutions as our molecular-
+line observations. This enabled both a very accurate determi-
+nation of the cloud mass as well as direct measurements of the
+LTE abundances of '*CO, C80, and CS between 0-30 mag of
+visual extinction, a range of extinction roughly 25 mag greater
+than that investigated in previous optical star count studies.
+
+In § 2 we describe our data collection and reduction
+methods. Section 3 reports the basic results of these observa-
+tions. In § 4 we describe our method for measuring infrared
+extinction and determining the distribution of extinction
+through the cloud. In § 5 we compare the extinction measure-
+ments with molecular line observations, evaluate and discuss
+the limitations and uncertainties in the method, and discuss the
+implications of our observations for understanding the struc-
+ture of the molecular cloud. Section 6 presents a concise
+summary of our major results.
+
+2. OBSERVATIONS AND DATA REDUCTION METHODS
+
+2.1. Infrared Array Camera Observations
+
+The near-infrared imaging data were obtained using the
+National Optical Astronomy Observatory (NOAO) Simulta-
+neous Quad Infrared Imaging Device (SQIID) on the Kitt
+Peak National Observatory (KPNO) 1.3 m telescope in 1991
+September. SQUID is equipped with four 256 x 256 platinum
+silicide (PtSi) focal plane arrays. Dichroic mirrors were used to
+allow simultaneous observations at four infrared wavelength
+bands: J (1.2 um), H (1.6 wm), K (2.2 um), and L (3.4 um). For
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+702 LADA ET AL.
+
+cold, variable reddening to the background stars produced by
+random, unrelated background and/or foreground dust clouds
+presents a major limitation to the application of this method. A
+reasonable application of this technique requires the dispersion
+in background field star (H — K) colors to be smaller than the
+observed range in (H — K) colors of the target stars. The disper-
+sion in field star colors sets an additional lower limit to the
+extinction that can be reliably measured. Observations of
+control fields are necessary to establish the value of this limit.
+Clearly, for the IC 5146 control fields, where the dispersion in
+the (H — K) color is only 0.08 magnitudes, our lower extinction
+limit is quite small, and this source of uncertainty 1s only
+important for derived extinctions less than about 1 mag.
+However, for many other molecular clouds, particularly in the
+first quadrant of the Galaxy, this will be a severe and limiting
+problem as can be ascertained from infrared observations of
+M17 (Lada et al. 1991) and NGC 6334 (Straw & Hyland 1989).
+
+3. Foreground/embedded stars—The color-excess method
+assumes that all the stars observed are background stars. Fore-
+ground stars or stars embedded in the cloud itself introduce
+additional uncertainties in the determinations. In particular,
+this method will not work for regions of molecular clouds
+containing embedded clusters (such as The Trapezium, NGC
+2024, NGC 2264, and M17, etc), where the surface density of
+embedded stars exceeds that of background stars. However, for
+IC 5146, the effects of embedded stars have been minimized by
+the elimination of all stars with infrared excess from the
+sample; moreover, the general agreement of the star count
+maps with the molecular-line maps suggests that contami-
+nation from embedded stars is minimal. On the other hand,
+foreground star contamination may be a more significant
+source of error. Such stars will act to decrease the derived
+extinctions and will likely have a larger effect in regions of
+highest extinction. This would lead to an increase in o with A,,
+as is observed.
+
+Our data can be used to make a reasonable estimate of the
+level of foreground star contamination. In regions of high
+extinction, the individual background stars should all be char-
+acterized by relatively high extinctions. Foreground stars
+should have colors indicative of zero extinction and should
+easily stand out among stars of high extinctions. We have
+examined the individual colors in all measurement boxes for
+which the derived mean A, is greater than 9 mag. We searched
+these data for all zero-magnitude extinction stars. We conser-
+vatively defined a star to have zero extinction if its derived
+extinction was less than or equal to 4 times the total photo-
+metric uncertainty of the observations [i.e., Ay(*) < 40,,,,]. In
+this manner we determined a firm upper limit to the mean
+number of foreground stars in a typical measurement box to be
+no greater than 0.32. This is small but not insignificant. The
+effect of the presence of such stars On Op .,, and G4;,, can be
+ascertained from modeling of the observations. We describe
+such modeling in the following section (§ 5.2) of this paper.
+
+4. Resolution and source structure-—Because our method
+measures the mean extinction within a fixed area of the sky
+(box), uncertainties can be introduced if the extinction is not
+uniformly distributed across the measurement box. This can
+happen if the cloud is significantly structured or clumpy on
+scales smaller than the box size. Recent CO observations of IC
+5146 obtained by Barnes Myers and Heyer (1994) at a
+resolution of 55” show that there is structure on scales smaller
+than our 1'5 measurement boxes. Clearly, then cloud structure
+could have a significant effect on the o vs. Ay relation for the
+Northern Streamer (eqs. [5] and [6]). However, the data can
+
+Vol. 429
+
+be modeled to assess the significance of cloud structure on the
+observed errors and dispersions. In the next section of this
+paper, we describe such modeling, which indicates that the
+effects of small-scale cloud structure are primarily responsible
+for the form of the o4;,,-Ay relation for this source.
+
+The sources of error discussed above are largely statistical in
+nature and pertain to the total uncertainty associated with the
+determination of the mean color excess «E(H — K)>. The mean
+color excess is proportional to extinction, which is in turn
+proportional to dust column density and ultimately cloud
+mass. To express our results in terms of either extinction,
+column density, or mass, we need to know the corresponding
+constants of proportionality. Any uncertainties in these con-
+stants will introduce systematic uncertainties in the various
+derived quantities which depend on them. We now consider
+the major sources of systematic uncertainties in the various
+derived quantities.
+
+1. The reddening law.——Extinction is directly related to color
+excess by the reddening or extinction law. We have chosen to
+scale the mean color excess to an equivalent visual extinction,
+Ay, using the standard extinction law. Our derived extinctions
+correspond exactly to the true visual extinction only if the
+extinction law for this cloud is normal. At visual and UV wave-
+lengths the extinction law is known to vary along different lines
+of sight in the galaxy (Mathis 1990 and references therein), and,
+consequently, our derived visual extinctions will be systemati-
+cally uncertain to the extent that the extinction law for this
+cloud departs from the standard law at visual wavelengths.
+However, in the near-infrared, the reddening law has been
+found to be universal with little, if any, variation along differ-
+ent lines of sight through the Galaxy (Mathis 1990 and refer-
+ences therein). Consequently, E(H—K) can be scaled
+confidently to an infrared extinction (e.g., Ax) using a standard
+(normal) extinction law (e.g., Ax = 1.78 E(H—K) = 0.112 A,;
+see Rieke & Lebofsky 1985), and the use of a standard extinc-
+tion law does not introduce significant uncertainties in any of
+the masses or column densities derived from the mean color
+excess method.
+
+2. Gas-to-dust ratio—The total hydrogen column density
+for a map pixel is determined by scaling the extinction there by
+the gas-to-dust ratio, R,_,. Similarly, determining the total
+mass of the cloud also depends directly on this ratio. There is
+considerable evidence to suggest that R,_, is constant or uni-
+versal in the Galaxy at relatively low extinctions (i.e., Ay < 2
+mag; see Lilley see 1955; Bohlin et al. 1978; Savage & Mathis
+1979). It is not clear if the ratio will change at high extinctions
+such as those characterizing the most opaque regions of IC
+5146. Theoretical justification for a constant ratio at high
+extinctions has been discussed by Dickman (1978) and will not
+be considered here. In any event, our mass and hydrogen
+column density determinations are systematically uncertain to
+the extent that the gas-to-dust ratio in this source departs from
+the universal value.
+
+3. Distance-——By far the most uncertain quantity we derive
+from our data is the mass of the cloud. This is because the
+distance to the cloud is the largest source of systematic uncer-
+tainty in the mass determinations. The uncertainty in the mass
+of the cloud is given by
+
+o(mass) = R,_,/?D*o[2(A,)]
+= 0.25R,_4D7I*{ y [o{tot)]7}°° ,
+i=1
+
+where D is the distance to the source, /* is the area of a single
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+Dec 2000.0 (Degrees)
+
+  
+
+47-307.0 826.9 326.8 326.7 326.6 326.5 326.4 326.8 326.2 326.1 326.0
+RA 2000.0 (Degrees)
+
+Fic. 6.—Map of the distribution of mean visual extinction, A,, in the
+Northern Streamer derived from the infrared (H — K) observations. The lowest
+contour corresponds to an extinction of 2 mag, and subsequent contours
+increase in steps of 2 mag. Similar to Fig. 3, the size of the measurement box
+(resolution) is 1!5, and the map represents data fully sampled at the Nyquist
+frequency.
+
+(hydrogen) mass of the cloud, given a gas-to-dust ratio. Using
+the standard ratio (i.e, N(H + H,) = 2 x 10? cm~? mag™!;
+see Lilley 1955; Bohlin et al. 1978), we derive the mass of the
+cloud to be Mic 5146 = 2800(D/1 kpc)? + 28(D/1 kpc)* Mo, for
+A, > 4 mag, the region of significant CS and C*8O emission
+(here D is the distance to the cloud). We note here that
+although the extinction map in Figure 6 accurately represents
+the variation of dust column density in the cloud, it corre-
+sponds to the true visual extinction through the cloud only to
+the extent that the reddening law in this cloud is a normal one
+(see following discussion). On the other hand, whether or not
+this cloud has a normal reddening law has no effect on our
+calculated hydrogen mass, since the gas-to-dust ratio we
+employed is calibrated in regions of low extinction, where the
+assumed normal reddening law applies.
+
+5. INTERPRETATION AND DISCUSSION
+
+5.1. Limitations and Uncertainties in the Method
+
+When coupled with infrared array camera observations, the
+method of deriving extinctions from color excesses (equations
+[1]-[4]) becomes a very powerful and accurate technique for
+measuring and mapping the distribution of dust and hydrogen
+gas though a molecular cloud. However, the method is not
+without limitations or uncertainties. The uncertainties associ-
+ated with this method fall into two categories. First, there are
+the uncertainties associated with the determination of color
+excess, and these are largely statistical in nature. Second, there
+are uncertainties introduced in the derivation of other physical
+quantities such as extinction, gas column density, and cloud
+mass from the color excess measurements. These latter uncer-
+tainties are largely systematic in nature. We consider and
+evaluate the two types of uncertainty separately as follows:
+
+To determine the total (statistical) uncertainty o,,.,, 1n our
+individual extinction measurements, we computed the disper-
+sions (Gqisp) in the extinction and the resulting error in the
+mean extinction (0,,¢an = Caisp//N ) for each pixel in the map.
+These errors are actually errors in the color excess determi-
+nations but are expressed in terms of extinction after being
+scaled by the factor 15.9. In Figure 7 we plot o4;,, as a function
+of mean A,. (The variation of ¢,,.a, With A, is virtually indis-
+tinguishable from that of o4;,, with Ay, apart from a /N
+reduction in scale.) We find the very interesting result that o4;,,
+(and ¢,,-a,) increase in a systematic fashion with increasing Ay.
+
+DARK CLOUD IC 5146 701
+
+Both trends are well fitted by linear relations:
+Oaisp = (0.73 + 0.09) + (0.40 + 0.01)A, , (5)
+Omean = (0.22 + 0.05) + (0.22 + 0.01)A, . (6)
+
+Moreover, the dispersion in both relations (1.e., the dispersions
+in the quantities o4;,, and 0,,.,, themselves) also increases with
+Ay. In fact, the dispersion in o4;,, is a factor of 2.4 larger for
+Ay > 10 mag than for A, < 10 mag.
+
+There are several sources of uncertainty which are
+responsible for producing the form of the observed o4;,,-Ay
+and 6,,ean~Ay relations. These include the following.
+
+1. Photometry—The fundamental source of statistical
+uncertainty is the photometric uncertainty in the infrared
+observations. These errors effectively set the lower limit to the
+amount of extinction which can be significantly measured. The
+measurement uncertainty for a given box or map pixel due to
+random photometric errors_in the individual measurements is
+given by: 9 phot = (15.9/N),/Z1[o(H — K)? + o(H — K)intrinsic] ~
+15.90,/./N visual magnitudes, where o(H—K) is_ the
+photometric error in the derived colors, o, = [o(H—K)*
++ o(H—K)} winsicl’/* is the corresponding error in the color
+excess and N is the number of stars in the box. For values
+typical of the IC 5146 observations (i.e., 5% photometry, a
+0.5% uncertainty in the intrinsic color excess, and N equal to
+the mean number [5] of stars in a box), we estimate a total
+photometric uncertainty of 0.5 mag in the mean A, for a
+typical box. Consequently, our extinction measurements have
+a very high degree of confidence for Ay > 1.5 mag. Since the
+data were filtered to include only observations of high photo-
+metric quality, o,,., is not a strong function of A). These con-
+siderations indicate that for extinctions greater than about 5
+mag, the total uncertainty is dominated by effects other than
+photometric errors.
+
+2. Background star colors——Because application of the
+color-excess method results in a determination of the line-of-
+sight extinction between the observer and the stars behind the
+
+E(H-K) (magnitudes)
+v0.0 0.2 0.4 0.6 0.8 7.0 1.2 1.4
+
+Cdisp (rmagnitiudes)
+
+ 
+
+0 5 10 15 20 25
+Ay (magnitudes)
+
+Fic. 7.—The variation of o4;,,, the dispersion in the extinction measure-
+ments, with A, the derived mean extinction. Also plotted is the least-squares
+linear fit to the data over the entire range of extinction and the corresponding 1
+o confidence bounds. The visual extinctions are derived from the observed
+color excesses assuming a normal reddening law, i.e., Ay = 15.9 E(H — K). The
+scale corresponding to the original color excess observations is also drawn.
+The dispersion in the measurements and g,,,.,,, the total uncertainty in the
+derived mean extinctions (and color excesses), are related as O,,.an = Saisp// N,
+where N is the number of stars used to derive the mean A, for a given
+measurement box.
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+6941
+
+Apd _.2429.2694n
+
+94ApT
+
+,i2
+
+No. 2, 1994
+
+measurement box (in square radians), and the factor 0.25 is a
+correction for oversampling. For the regions with A, > 4.0
+mag, we find the fractional statistical uncertainty,
+o[X(Ay)]/Z(Ay), to be only 1%. The distance to the Northern
+Streamer is usually assumed to be the same as that (900 pc)
+derived optically for the cluster IC 5146 (e.g., Elias 1978;
+Dobashi et al. 1992). Although the cluster is at a relatively large
+projected distance from the Northern Streamer, this assump-
+tion seems justified by the presence of a bridge of 17CO and
+‘3CO emission which appears to connect the cluster and the
+streamers (Fig. 1; see also Dobashi et al. 1992). However, the
+relative lack of foreground stars toward the dark clouds which
+make up the Northern Streamer suggests a distance closer than
+900 pc. Indeed, if the predictions of the Bahcall & Soneria
+(1980) model of the Galaxy are scaled to our control field
+observations, we find that we expect to observe an average of
+2.1 foreground stars in a typical 15 measurement box in this
+direction of the Galaxy for a 1 kpc distance to the cloud. To
+reduce this to a number close to that actually estimated from
+our observations (see above) requires the cloud to be at a
+distance of about 400 pc. Consequently, we consider the dis-
+tance to the Northern Streamer to be highly uncertain and
+probably smaller than the 900 pc usually quoted in the liter-
+ature.
+
+5.2. Modeling and Cloud Structure
+
+It is possible to predict the form of the o4;,,-Ay relation by
+modeling the structure of the cloud and the foreground star
+distribution. In the case where the foreground star contribu-
+tion is small or known, the o4;,,-Ay relation can be used to
+derive direct and quantitative information about the nature of
+the spatial distribution of dust on scales smaller than our effec-
+tive binning box resolution.
+
+We constructed Monte Carlo models to mimic the infrared
+observations and predict o4;,,-Ay curves for various cloud con-
+figurations. We first assumed that the spatial distribution of
+dust had the same functional form in all 1000 measurement
+boxes. However, the model boxes differed from one another in
+the total amount or mean extinction contained within them.
+This mean extinction was varied from 0-25 mag. Between
+these two limits of mean extinction, the boxes were divided
+equally into bins 0.2 mag wide. To obtain a measurement of
+mean extinction which corresponded to that derived from
+observations, model stars were randomly generated and placed
+within each counting box. The extinction to each star was
+calculated from the input dust distribution assuming that the
+stars were background objects. Noise, simulating photometric
+measurement errors was also added to each star’s extinction
+value. The mean extinction and its dispersion were calculated
+for all the stars in each box. To determine the number of stars
+to be placed in each box we assumed a Poisson distribution
+with a mean of 5, similar to the observed value. For each
+extinction step, typically seven boxes of stars were created and
+measured. The results were then plotted in the form of a o4;,,-
+A, relation similar to the observations.
+
+Figure 8 shows the o4;,,-Ay relation for the case of a uniform
+distribution of extinction in each box and no foreground stars.
+The predicted dispersions are constant and independent of Ay
+with an internal scatter also independent of A, and consistent
+with that expected solely from the photometric errors intro-
+duced in the model. This is clearly different from the observa-
+tions of IC 5146. It is possible that the presence of foreground
+stars in the measurement boxes could account for some of the
+
+DARK CLOUD IC 5146
+
+703
+
+~
+S
+
+Cdisp (magnitudes)
+~On~ HWA AHANY DO
+
+ 
+
+Av (magnitudes)
+
+Fic. 8—The variation of o4;,,, the dispersion in the individual mean
+extinction measurements, with mean A, predicted by a model characterized by
+uniform cloud structure within each measurement box. Comparison with Fig.
+7 suggests that the spatial distribution of extinction is not uniform on angular
+scales smaller than that of the observations (i.e., 1/5).
+
+effects which characterize the observed o4;,,-Ay relation. To
+investigate this possibility, foreground stars were added to the
+model by assuming that they had zero mean extinction plus
+some measurement noise and that their probability of being
+found in a measurement box was given by a Poisson distribu-
+tion function with a mean of 0.32, corresponding to observa-
+tions. The resulting o4;,,-Ay relation is shown in Figure 9. The
+inclusion of foreground stars alters the relation between disper-
+sion and extinction, but again the relation has little resem-
+blance to the actual observations. These results rule out
+models for cloud structure which assume a uniform spatial
+distribution of dust on scales smaller than a box size (i.e., <
+1'5). These results also indicate that cloud structure is likely
+more important for determining the form of the observed o4;,,-
+A, relation than is forground star contamination.
+
+Since uniform extinction models can not account for the
+observations, we investigated other classes of models which
+describe different spatial distributions of dust. Figure 10 shows
+the resulting o4;,,.-Ay relation for models which assume that
+the dust is distributed in discrete, high extinction clumps
+
+Cdisp (magnitudes)
+
+ 
+
+Ay (magnitudes)
+
+Fic. 9.—The variation of o4;,,, the dispersion in the individual mean
+extinction measurements, with mean A, predicted by models of uniform cloud
+structure with a small contribution from foreground stars within each mea-
+surement box. The surface density of foreground stars was set to equal that
+inferred from observations. Comparison with Fig. 7 suggests that the addition
+of foreground stars cannot explain the observed data and that the observed
+form of the o-A, relation must be largely a result of small-scale variations in
+cloud structure and not due to the presence of foreground stars.
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+No. 2, 1994
+
+FH Instrumental Uncertainty
+
+ 
+
+13C0 Integrated Intensity (K-km s-)
+
+0 10 20 30
+Visual Extinction (magnitudes)
+Fic. 13—Comparison of the 13CO integrated intensity with visual extinc-
+
+tion in the Northern Streamer cloud. Also plotted is the line corresponding to
+the least-squares linear fit to the data between 0 and 5 mag.
+
+6 km s~*) of 13CO, C18O and CS at the more than 500 posi-
+tions where common data were obtained.
+
+In order to quantify the various correlations, we performed
+linear least-square fits over varying ranges of A, for all three
+molecular lines. We found that the 1*CO emission could be
+fitted by a linear relation with a constant slope from zero up to
+5—6 mag of extinction. For maximum extinction values larger
+than about 8 mag, the values of the derived slope significantly
+decreased, and the quality of the fit decline considerably. We
+conclude that the '*CO integrated intensity is roughly linearly
+correlated with A, between 0 and about 5 mag. When extinc-
+tions reach between 8 and 10 mag, the !*CO emission appears
+saturated. Both C'8O and CS emission could be reasonably
+fitted by linear relations with A, over the entire range of
+observed extinctions. In both cases, the slopes of the fitted
+relations are constant for fits spanning ranges of A, from 0 up
+to 15 mag. However, the slopes of the fits performed over
+increasingly larger ranges of extinction are found to decrease.
+This decrease in slope could be caused by opacity effects which
+begin to set in for these molecules at about 15 mag of visual
+extinction or a decrease in their relative abundances at large
+extinctions. In addition, the relatively large uncertainties in A,
+at large extinctions could also contribute to a change in slope
+
+E(H-K) (magnitudes)
+0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 7.6 1.8 2.0 2.2
+
+Li Instrumental Uncertainty
+
+ 
+
+C180 Integrated Intensity (K-km s-1)
+
+O 10 20 30
+Visual Extinction (magnitudes)
+Fic. 14—Comparison of the C'8O integrated intensity with visual extinc-
+
+tion (and color excess) in the Northern Streamer cloud. Also plotted is the line
+corresponding to the least-squares line fit to the data between 0 and 15 mag.
+
+DARK CLOUD IC 5146 705
+
+Integrated CS Intensity (K km s-1)
+
+ 
+
+0 10 20 30
+Visual Extinction (magnitudes)
+
+Fic. 15—Comparison of the integrated CS emission with visual extinction
+in the Northern Streamer cloud. Also plotted is the line corresponding to the
+least-squares linear fit to the data between 0 and 15 mag.
+
+at large A,. The derived linear fits for the three molecules are
+I(?°?CO) = 1.88 + 0.17 + (0.72 + 0.06)A, K km s7!
+(Ay <5 mag),
+1(C'8O) = 0.07 + 0.03 + (0.10 + 0.01)A, Kkms7!
+(Ay < 15 m)g),
+I(CS) = 0.10 + 0.02 + (0.06 + 0.01)A, K km s™!
+(A, < 15 mag).
+
+We observe large scatter in all three relations. Such large
+scatter also characterizes similar relations derived from star
+count studies (e.g., Dickman 1978; Bachiller & Cernicharo
+1986; Langer et al. 1989, etc.). The scatter in these relations has
+two possible origins: it can be intrinsic and/or the result of
+experimental (instrumental) uncertainties. Instrumental uncer-
+tainties give rise to scatter in the determinations of both inte-
+grated intensity and extinction. The instrumental uncertainty,
+d;;, in the integrated intensity for each molecular-line spectrum
+was determined by integrating over a 4 km s~' wide region of
+the spectrum well outside the velocity limits of observed molec-
+ular emission. The instrumental uncertainty in the extinction,
+Fphot. Was determined in the manner described earlier in this
+paper. As discussed earlier, there are additional uncertainties in
+the extinction measurements due in most part to variations in
+cloud structure on small angular scales. These uncertainties
+become important for A, > 5 mag.
+
+The size of the typical instrumental uncertainties in inte-
+grated intensities and extinction are plotted in Figures 13-15.
+In all three cases, the scatter appears larger than allowed by the
+instrumental errors. Moreover, the scatter in the 1*CO versus
+Ay plot (Fig. 13) appears to be considerably larger than that
+exhibited in the corresponding C'®O and CS plots (Figs. 14
+and 15). Indeed, we find that the dispersion of the residuals,
+Or esiduals> Of each of the above linear least-square fits is greater
+than the corresponding <o;;>, the mean uncertainty in inte-
+grated intensity, by factors of 4.8, 1.6, and 2.2 for '°CO, C180,
+and CS observations, respectively. This suggests that the origin
+of the large scatter in the ‘CO versus A, relation is intrinsic
+and not the result of any additional uncertainties in extinction
+measurements introduced by variations in cloud structure. The
+origin of such intrinsic scatter is astrophysical in nature and
+likely due to intrinsic variations in the excitation or abundance
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+704 LADA ET AL.
+
+ei
+
+Cdisp (magnitudes)
+
+ 
+
+0 3 10 15 20 25,
+Ay (magnitudes)
+
+Fic. 10.—The variation of o4;,,, the dispersion in the individual mean
+extinction measurements, with mean A, predicted by models of in which the
+measurement boxes are filled with discrete high extinction clumps with zero
+extinction interclump material between them. The mean extinction derived for
+a measurement box in such a model depends only on the filling factor of the
+clumps. Comparison with Fig. 7 clearly rules out this form of clumpiness in the
+cloud.
+
+(baseballs) with zero extinction (air) between them. In these
+models, the mean extinction in a box is directly related to the
+filling factor of the clumps, which is varied from zero to unity
+in order to span the range of observed extinctions. As in the
+models shown in Figure 9, the contribution of foreground stars
+was also included. The data in Figure 7 clearly rule out this
+class of models.
+
+To examine other possible variations in the surface density
+distribution of extinction in the cloud, we investigated a class
+of models in which the extinction distribution in each box was
+described by a two-dimensional power-law function of the
+form A,(x, y) oc x*y* with initially no foreground stars. Only
+three parameters were needed to characterize each model,
+Fpnot» % and Ao, the extinction in a box. The value of Ay was
+fixed, and the other two parameters were varied until the slope
+and the intercept of the linear fit to the o4;,.-Ay relation
+matched those derived from observation (0.73 mag and 0.40,
+respectively). The observed data were found to be well
+
+Odisp (magnitudes)
+
+ 
+
+0 5 10 15 20 aa
+Ay (magnitudes)
+
+Fic. 11—The variation of o,4;,, the dispersion in the individual mean
+extinction measurements, with mean A, predicted by models in which the
+surface density of extinction within each measurement box spatially varies in a
+power-law fashion. This particular model of cloud structure closely matches
+the data. This model also includes a contribution from foreground stars. See
+text for discussion.
+
+Vol. 429
+
+modeled by a surprisingly narrow range of these parameters:
+a= 0.85 + 0.05, and 6,4. =0.5+0.2. The model data for
+a = 0.85, and o,,. = 0.5 are shown in Fig. 11 where we have
+also included the contribution of foreground stars. The general
+agreement with the data is remarkable, although we do find
+that the fits are not as nearly well constrained if the contribu-
+tion due to foreground star contamination is allowed to vary in
+any significant way. The physical significance of this particular
+set of cloud models and their agreement with observations is
+not clear from the present analysis. Nonetheless, it seems clear
+that simple models of uniform dust distribution and clumpi-
+ness are ruled out by our observations. Moreover, foreground
+star contamination alone cannot account for the observed rela-
+tions present in the data.
+
+Finally, we note that cloud structure variations are also a
+significant source of uncertainty for interpreting star count
+data or molecular line observations made with single aperture
+telescopes, whose resolution is large compared to interesting
+physical structure. However, unlike these techniques, which are
+inherently incapable of sensing such difficulties, the color
+excess method for deriving extinctions presented here provides
+a quantitative assessment of the magnitude of such uncer-
+tainties and in the process an additional probe of the cloud
+structure itself. This is a major advantage of this method of
+measurement. Our results also suggest that foreground star
+contamination can be a serious problem in some instances.
+Such contamination can also present major limitations for star
+count measurements as can be ascertained from the star count
+maps of the Orion Cloud (Rosanno 1980). However, the fore-
+ground contribution to star counts cannot be determined from
+star count data alone.
+
+5.3. Comparison of the Molecular-Line and Extinction Data
+
+Figure 12 shows our map of integrated C'8O emission
+(between 2 and 6 km s~*) of the Northern Streamer drawn on
+the same scale as the extinction map (Fig. 6). The general
+appearence of the two maps is remarkably similar. This is not
+entirely unexpected, since both maps trace column density.
+Comparison of the two maps provides direct information on
+the dust-to-(CO) gas ratio and its constancy through the
+cloud. In order to facilitate a more detailed comparison of the
+extinction and molecular-line data, we constructed an addi-
+tional extinction map of the cloud with the same angular
+resolution (1'7) and grid spacing (1’) as the molecular line
+maps. In Figures 13, 14, and 15 we show the relation between
+visual extinction and the integrated intensities (between 2 and
+
+Dec 2000.0 (Degrees)
+
+  
+
+47.4
+3827.0 326.9 326.8 326.7 326.6 326.5 326.4 826.3 326.2 326.1 326.0
+RA 2000.0 (Degrees)
+
+Fic. 12.—Map of the integrated C’8O (J = 1 — 0) emission in the North-
+ern Streamer presented on the same scale as Figs. 2, 3, 4, and 6 for comparison.
+The lowest contour corresponds to 0.1 K km s~'. Subsequent contours
+
+increase in equal steps of 0.3 K kms7!.
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+.694L1
+
+Apd _.2429.2694n
+
+94Ap0..
+
+,i2
+
+698 LADA
+
+40
+
+—~ 30
+2,
+tH
+|
+% 20
+ey
+HH
+fF, 10
+WY
+fry
+[xy
+O 0
+O
+[x]
+A -10
+-20
+20 0 -20 —4
+, R.A.
+Zz
+tH
+s!
+i
+HH
+[x]
+WY
+[xy
+fy
+O
+O
+[x]
+Qa
+
+-4
+R.A.
+
+ 
+
+0 —-60
+OFFSET (ARCMIN)
+Fic. la
+
+0 -60
+OFFSET (ARCMIN)
+Fic. 1b
+
+Vol. 429
+
+ 
+
+—80 -100
+
+-120
+
+ 
+
+-80 -100 -120
+
+Fic. 1.—{a) The '*CO (J = 1 + 0) integrated intensity map (AV = 2 — 10 kms~ ") of the IC 5146 complex made with the Bell Laboratory Telescope. The lowest
+contour is 1.5K kms’. Subsequent contours increase in steps of 1.5 K km s~!. The reference (0,0) position of the map is &1959 = 2151548; 5,959 = +47°01'12”.
+The cluster IC 5146 is located at the (0,0) position of this map. The Northern Streamer is the region of bright emission centered approximately at map coordinates
+(— 80, 20). (b) The integrated intensity map of CS emission in the IC 5146 region. The lowest contour plotted here is at 0.2 K km s~!. Subsequent contours increase in
+equal steps of 0.2 K kms” *. Subsequent contours increase in equal steps of 0.2 K km s~!. Otherwise the same as (a).
+
+3.2. Infrared Imaging Observations
+3.2.1. Stellar Spatial Distribution
+
+Figure 2 shows the positions of all the 3760 J-band stars
+with J < 16 mag that we extracted from the infrared images of
+the Northern Streamer region of the IC 5146 dark cloud
+complex. The surface density of J-band stars is relatively high
+but clearly not uniform across this region of the dark cloud. To
+obtain a more quantitative estimate of the distribution of
+stellar surface density, we constructed a star count map of the
+region from the observations shown in Figure 2. The star
+counts were obtained by subdividing the region into a rectilin-
+ear grid of overlapping squares, each 1’5 x 1/5 in size, and then
+counting the total number of stars in each square. The centers
+of each such reseau square were separated by 0:75, the Nyquist
+spatial sampling interval. The number of stars counted in each
+
+8
+oof ae 7 es Jo
+oti gene * 8 a asec Gen ee
+-% °. O08 wie a. 6 aS
+& Ze " _ <3 ee
+°
+
+Rei SE eT Ahad nS
+° “>: e no hy ns até obs “ret
+HEAT Soe ee tee aes
+
+8% ee PYAVS'
+
+Dec (Degrees)
+
+ 
+
+47.4
+327.0 326.9 326.8 326.7 326.6 326.5 326.4 326.3 326.2 326.1 326.0
+RA (Degrees)
+
+FIG. 2.—Map of the distribution of stellar positions of all J-band stars
+brighter than the completeness limit toward the Northern Streamer. The coor-
+dinate system is epoch 2000.
+
+© American Astronomical Society « Provided by the NASA Astrophysics Data System
+
