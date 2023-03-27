@@ -6,5 +6,6 @@
 \contentsline {subsection}{\numberline {1.2.1}Reddeing in function of the wavelegnth}{7}{subsection.1.2.1}%
 \contentsline {chapter}{\numberline {2}Methods for the determination of Extinction}{9}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Star Count}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}N.I.C.E: Near Infrared Colour Exctinction}{10}{section.2.2}%
 \contentsline {chapter}{\numberline {3}Analysis and Maps Production}{11}{chapter.3}%
 \contentsline {chapter}{\numberline {4}New Application for Analysis: Dust}{13}{chapter.4}%

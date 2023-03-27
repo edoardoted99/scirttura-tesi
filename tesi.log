@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.3.27)  27 MAR 2023 21:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.3.27)  27 MAR 2023 22:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1321,7 +1321,7 @@ LaTeX Info: Redefining \nameref on input line 55.
 \openout6 = `tesi.out'.
 
  (./title.tex
-<logo_2.jpg, id=43, 1660.2025pt x 499.8675pt>
+<logo_2.jpg, id=47, 1660.2025pt x 499.8675pt>
 File: logo_2.jpg Graphic file (type jpg)
 <use logo_2.jpg>
 Package pdftex.def Info: logo_2.jpg  used on input line 8.
@@ -1399,7 +1399,7 @@ been already used, duplicate ignored
 l.89 \newpage\null\thispagestyle{empty}\newpage
                                                 [8]
 Chapter 1.
-<images/1_perseus_molecular_cloud.jpg, id=88, 16009.8125pt x 6524.375pt>
+<images/1_perseus_molecular_cloud.jpg, id=93, 16009.8125pt x 6524.375pt>
 File: images/1_perseus_molecular_cloud.jpg Graphic file (type jpg)
 <use images/1_perseus_molecular_cloud.jpg>
 Package pdftex.def Info: images/1_perseus_molecular_cloud.jpg  used on input li
@@ -1428,7 +1428,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 121--123
 
  []
 
-<images/trumpler_cluster_diameter.png, id=98, 994.71625pt x 683.55376pt>
+<images/trumpler_cluster_diameter.png, id=103, 994.71625pt x 683.55376pt>
 File: images/trumpler_cluster_diameter.png Graphic file (type png)
 <use images/trumpler_cluster_diameter.png>
 Package pdftex.def Info: images/trumpler_cluster_diameter.png  used on input li
@@ -1445,7 +1445,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 140--141
  []
 
 [2 <./images/trumpler_cluster_diameter.png>]
-<images/interstellar_medium_absorbs.jpg, id=113, 715.67375pt x 238.8925pt>
+<images/interstellar_medium_absorbs.jpg, id=118, 715.67375pt x 238.8925pt>
 File: images/interstellar_medium_absorbs.jpg Graphic file (type jpg)
 <use images/interstellar_medium_absorbs.jpg>
 Package pdftex.def Info: images/interstellar_medium_absorbs.jpg  used on input 
@@ -1466,7 +1466,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
-<images/extinction_by_distribuction_of_particles.jpg, id=131, 1667.22874pt x 46
+<images/extinction_by_distribuction_of_particles.jpg, id=136, 1667.22874pt x 46
 6.74374pt>
 File: images/extinction_by_distribuction_of_particles.jpg Graphic file (type jp
 g)
@@ -1475,7 +1475,7 @@ Package pdftex.def Info: images/extinction_by_distribuction_of_particles.jpg  u
 sed on input line 231.
 (pdftex.def)             Requested size: 412.56496pt x 115.49628pt.
 [4] [5 <./images/extinction_by_distribuction_of_particles.jpg>]
-<images/absorb_coefficient.jpg, id=161, 812.03375pt x 524.96124pt>
+<images/absorb_coefficient.jpg, id=166, 812.03375pt x 524.96124pt>
 File: images/absorb_coefficient.jpg Graphic file (type jpg)
 <use images/absorb_coefficient.jpg>
 Package pdftex.def Info: images/absorb_coefficient.jpg  used on input line 304.
@@ -1496,13 +1496,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 370--371
 
  []
 
-<images/barnard_68.jpg, id=174, 1284.8pt x 855.195pt>
+<images/barnard_68.jpg, id=179, 1284.8pt x 855.195pt>
 File: images/barnard_68.jpg Graphic file (type jpg)
 <use images/barnard_68.jpg>
 Package pdftex.def Info: images/barnard_68.jpg  used on input line 376.
 (pdftex.def)             Requested size: 412.56496pt x 274.60754pt.
 [7]
-<images/reddening_curve.jpg, id=187, 1386.17876pt x 564.1075pt>
+<images/reddening_curve.jpg, id=192, 1386.17876pt x 564.1075pt>
 File: images/reddening_curve.jpg Graphic file (type jpg)
 <use images/reddening_curve.jpg>
 Package pdftex.def Info: images/reddening_curve.jpg  used on input line 386.
@@ -1528,23 +1528,23 @@ Chapter 4.
 
 ]
 
-LaTeX Warning: Empty bibliography on input line 465.
+LaTeX Warning: Empty bibliography on input line 471.
 
 (./tesi.aux)
 Package rerunfilecheck Info: File `tesi.out' has not changed.
-(rerunfilecheck)             Checksum: 827928C06DCE8DF882D9A10091C63681;1599.
+(rerunfilecheck)             Checksum: 233CA8FF1B3C35EC49E1E80C6B1BB1CB;1871.
 Package logreq Info: Writing requests to 'tesi.run.xml'.
 \openout1 = `tesi.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 46486 strings out of 480204
- 1067312 string characters out of 5895010
+ 46462 strings out of 480204
+ 1066181 string characters out of 5895010
  1699792 words of memory out of 5000000
- 63610 multiletter control sequences out of 15000+600000
- 479687 words of font info for 100 fonts, out of 8000000 for 9000
+ 63582 multiletter control sequences out of 15000+600000
+ 479795 words of font info for 101 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 124i,17n,120p,1881b,2209s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 124i,20n,120p,1881b,2299s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
@@ -1558,10 +1558,10 @@ cm/cmsl10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/
 share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on tesi.pdf (22 pages, 8132796 bytes).
+Output written on tesi.pdf (22 pages, 8133677 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
- 235 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 500000)
- 30845 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 306 PDF objects out of 1000 (max. 8388607)
+ 241 compressed objects within 3 object streams
+ 71 named destinations out of 1000 (max. 500000)
+ 30853 words of extra memory for PDF output out of 35830 (max. 10000000)
 

@@ -61,7 +61,7 @@ pdfpagemode=FullScreen,
 \vspace*{1cm} 
 \textit{
 \flushright
-alla mia famiglia
+alla mia carissima
 \vfill
 }
 
@@ -412,35 +412,41 @@ At this point, we need to choose two regions: the \textit{Control field}, where 
 
 Now we count the number of stars $N_1$ in the control field and $N_2$ in the science field:
 \begin{equation}
-	N_1(m_0) = \int_{\infty}^{m_0} N'(m')\de m'
+	N_1(m_0) = \int_{-\infty}^{m_0} N'(m')\de m'
 \end{equation}
 \begin{equation}
-	N_2(m_0-A) = \int_{\infty}^{m_0-A} N'(m')\de m'
+	N_2(m_0-A) = \int_{-\infty}^{m_0-A} N'(m')\de m'
 \end{equation}
 
 In the hypotesis that $N'(m)$ is the same for both fields, i can get the value of $A$.
-\begin{center}
-	\begin{tikzpicture}
-		\begin{axis}[
-			xlabel={$m$},
-			ylabel={$\log N'(m)$},
-			axis lines=left,
-			xmin=0,
-			ymin=0,
-			xtick=\empty, % remove x tick marks and labels
-			ytick=\empty, % remove y tick marks and labels
-			]
-			\addplot[domain=0:6,blue,thick]{(x-1)};
-			\addplot[domain=0:11,red,thick]{(x-6)};
-			\legend{control,science}
-			
-			% add arrow with label
-			\draw[->,>=stealth,decorate,decoration={markings,mark=at position 0.5 with {\node[above]{$A$};}}] (axis cs:3,2) -- (axis cs:3,-3);
-			
-		\end{axis}
-	\end{tikzpicture}
-\end{center}
+\begin{figure}[H]
+	\begin{center}
+		\begin{tikzpicture}
+			\begin{axis}[
+				xlabel={$m$},
+				ylabel={$\log N'(m)$},
+				axis lines=left,
+				xmin=0,
+				ymin=0,
+				xtick=\empty, % remove x tick marks and labels
+				ytick=\empty, % remove y tick marks and labels
+				]
+				\addplot[domain=0:6,blue,thick]{(x-1)};
+				\addplot[domain=0:11,red,thick]{(x-6)};
+				\legend{control,science}
+				
+				% add arrow with label
+				\draw [->,>=stealth] (axis cs:3.3,2) -- node [above] {$A$} (axis cs:7.7,2);
+				
+			\end{axis}
+		
+		\end{tikzpicture}
+		
+	\end{center}
+		\caption{The stars in the control field exhibit a translation in the graph, represented by a vector A that corresponds to the effect of extinction. }
+\end{figure}
 
+\section{N.I.C.E: Near Infrared Colour Exctinction}
 
 
 
